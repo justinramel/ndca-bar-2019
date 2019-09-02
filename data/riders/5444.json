@@ -1,0 +1,1407 @@
+{
+  "id": "5444",
+  "name": "Lee Statham",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Houghton CC",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18241",
+        "raceCategory": "short",
+        "name": "South Shields Velo",
+        "course": "M101",
+        "distance": 10,
+        "fee": 11,
+        "date": "20 April 2019",
+        "club": "Houghton CC",
+        "position": "40",
+        "time": "0:22:09",
+        "standard": "00:26:22",
+        "onStandard": "-00:04:13",
+        "speed": "27.09 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 96,
+        "vbarPosition": 25,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18256",
+        "raceCategory": "short",
+        "name": "Barnesbury CC (Cheques To B Bayne)(80 Riders)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 10,
+        "date": "10 July 2019",
+        "club": "Houghton CC",
+        "position": "35",
+        "time": "0:22:34",
+        "standard": "00:26:22",
+        "onStandard": "-00:03:48",
+        "speed": "26.59 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 98,
+        "vbarPosition": 23,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18252",
+        "raceCategory": "medium",
+        "name": "Houghton CC (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 11,
+        "date": "23 June 2019",
+        "club": "Houghton CC",
+        "position": "14",
+        "time": "1:02:07",
+        "standard": "01:06:52",
+        "onStandard": "-00:04:45",
+        "speed": "24.15 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18250",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 10,
+        "date": "16 June 2019",
+        "club": "Houghton CC",
+        "position": "30",
+        "time": "1:02:23",
+        "standard": "01:06:52",
+        "onStandard": "-00:04:29",
+        "speed": "24.04 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 102,
+        "vbarPosition": 19,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 91,
+    "averagePointsPerMediumRace": 102,
+    "averagePointsPerLongRace": 96.5,
+    "averagePointsPerRace": 96.5,
+    "remainingShortPoints": 178,
+    "remainingMediumPoints": 36,
+    "remainingLongPoints": 120,
+    "remainingPoints": 334,
+    "predictedFinalPoints": 579,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 2,
+      "totalPoints": 91
+    },
+    "totals": {
+      "short": 182,
+      "medium": 204,
+      "long": 0,
+      "grand": 386
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "3 x DNS"
+      },
+      {
+        "cssclass": "tag is-dark",
+        "text": "2 x DNF"
+      }
+    ],
+    "currentPosition": 90,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 87,
+        "id": "28335",
+        "pointsDirection": 2,
+        "name": "Alan Henry",
+        "club": "Zeus CRT",
+        "averagePointsPerRace": 100.75,
+        "predictedFinalPoints": 595,
+        "grandTotal": 403,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 88,
+        "id": "5084",
+        "pointsDirection": 2,
+        "name": "Russell Hughes",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 99,
+        "predictedFinalPoints": 597,
+        "grandTotal": 396,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 98,
+        "tieBreakPoints": 98
+      },
+      {
+        "position": 89,
+        "id": "6215",
+        "pointsDirection": -25,
+        "name": "Dean Madden",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 98.75,
+        "predictedFinalPoints": 594,
+        "grandTotal": 395,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 101,
+        "tieBreakPoints": 93
+      },
+      {
+        "position": 90,
+        "id": "5444",
+        "pointsDirection": 2,
+        "name": "Lee Statham",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 96.5,
+        "predictedFinalPoints": 579,
+        "grandTotal": 386,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 91
+      },
+      {
+        "position": 91,
+        "id": "13047",
+        "pointsDirection": 2,
+        "name": "Barry Holyoak",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 77.2,
+        "predictedFinalPoints": 456,
+        "grandTotal": 386,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 67,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 92,
+        "id": "2512",
+        "pointsDirection": 2,
+        "name": "Roger Clarke",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 96.25,
+        "predictedFinalPoints": 562,
+        "grandTotal": 385,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 294,
+        "tieBreakPoints": 202
+      },
+      {
+        "position": 93,
+        "id": "10526",
+        "pointsDirection": 2,
+        "name": "Joseph Hunter",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 91.75,
+        "predictedFinalPoints": 513,
+        "grandTotal": 367,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 177,
+        "tieBreakPoints": 245
+      }
+    ]
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18256",
+        "raceCategory": "short",
+        "name": "Barnesbury CC (Cheques To B Bayne)(80 Riders)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 10,
+        "date": "10 July 2019",
+        "club": "Houghton CC",
+        "position": "35",
+        "time": "0:22:34",
+        "standard": "00:26:22",
+        "onStandard": "-00:03:48",
+        "speed": "26.59 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 98,
+        "vbarPosition": 23,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18241",
+        "raceCategory": "short",
+        "name": "South Shields Velo",
+        "course": "M101",
+        "distance": 10,
+        "fee": 11,
+        "date": "20 April 2019",
+        "club": "Houghton CC",
+        "position": "40",
+        "time": "0:22:09",
+        "standard": "00:26:22",
+        "onStandard": "-00:04:13",
+        "speed": "27.09 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 96,
+        "vbarPosition": 25,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18252",
+        "raceCategory": "medium",
+        "name": "Houghton CC (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 11,
+        "date": "23 June 2019",
+        "club": "Houghton CC",
+        "position": "14",
+        "time": "1:02:07",
+        "standard": "01:06:52",
+        "onStandard": "-00:04:45",
+        "speed": "24.15 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18238",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC - Hilly 21",
+        "course": "M21",
+        "distance": 21,
+        "fee": 10,
+        "date": "30 March 2019",
+        "club": "Houghton CC",
+        "position": "42",
+        "time": "0:54:02",
+        "standard": "00:55:58",
+        "onStandard": "-00:01:56",
+        "speed": "23.32 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 107,
+        "vbarPosition": 14,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 97,
+    "averagePointsPerMediumRace": 108,
+    "averagePointsPerLongRace": 102.5,
+    "averagePointsPerRace": 102.5,
+    "remainingShortPoints": 166,
+    "remainingMediumPoints": 24,
+    "remainingLongPoints": 120,
+    "remainingPoints": 310,
+    "predictedFinalPoints": 615,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 2,
+      "totalPoints": 96
+    },
+    "totals": {
+      "short": 194,
+      "medium": 216,
+      "long": 0,
+      "grand": 410
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "3 x DNS"
+      },
+      {
+        "cssclass": "tag is-dark",
+        "text": "2 x DNF"
+      }
+    ],
+    "currentPosition": 57,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 54,
+        "id": "6215",
+        "pointsDirection": -19,
+        "name": "Dean Madden",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 107.5,
+        "predictedFinalPoints": 645.5,
+        "grandTotal": 430,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 111,
+        "tieBreakPoints": 99
+      },
+      {
+        "position": 55,
+        "id": "2512",
+        "pointsDirection": 2,
+        "name": "Roger Clarke",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 106.5,
+        "predictedFinalPoints": 630,
+        "grandTotal": 426,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 327,
+        "tieBreakPoints": 217
+      },
+      {
+        "position": 56,
+        "id": "6744",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 26,
+        "name": "Adam Wilson",
+        "club": "Cramlington CC",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 625.5,
+        "grandTotal": 416,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 199,
+        "tieBreakPoints": 98
+      },
+      {
+        "position": 57,
+        "id": "5444",
+        "pointsDirection": 2,
+        "name": "Lee Statham",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 102.5,
+        "predictedFinalPoints": 615,
+        "grandTotal": 410,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 58,
+        "id": "30653",
+        "pointsDirection": 2,
+        "name": "Raymondo Bell",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 100.5,
+        "predictedFinalPoints": 612,
+        "grandTotal": 402,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 191,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 59,
+        "id": "15799",
+        "pointsDirection": 2,
+        "name": "Mark Ambury",
+        "club": "Zeus CRT",
+        "averagePointsPerRace": 99.75,
+        "predictedFinalPoints": 598.5,
+        "grandTotal": 399,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 60,
+        "id": "19567",
+        "pointsDirection": 2,
+        "name": "Francis Smith",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 99.5,
+        "predictedFinalPoints": 596,
+        "grandTotal": 398,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 99,
+        "tieBreakPoints": 97
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18238",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC - Hilly 21",
+      "course": "M21",
+      "distance": 21,
+      "fee": 10,
+      "date": "30 March 2019",
+      "club": "Houghton CC",
+      "position": "42",
+      "time": "0:54:02",
+      "standard": "00:55:58",
+      "onStandard": "-00:01:56",
+      "speed": "23.32 Mph",
+      "bar": 91,
+      "barPosition": 30,
+      "vbar": 107,
+      "vbarPosition": 14,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18240",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders CC",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 11,
+      "date": "13 April 2019",
+      "club": "Houghton CC",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18241",
+      "raceCategory": "short",
+      "name": "South Shields Velo",
+      "course": "M101",
+      "distance": 10,
+      "fee": 11,
+      "date": "20 April 2019",
+      "club": "Houghton CC",
+      "position": "40",
+      "time": "0:22:09",
+      "standard": "00:26:22",
+      "onStandard": "-00:04:13",
+      "speed": "27.09 Mph",
+      "bar": 91,
+      "barPosition": 30,
+      "vbar": 96,
+      "vbarPosition": 25,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18242",
+      "raceCategory": "short",
+      "name": "Houghton CC",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 11,
+      "date": "28 April 2019",
+      "club": "Houghton CC",
+      "position": "DNF",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18255",
+      "raceCategory": "medium",
+      "name": "Gosforth Road Club (BBAR)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 11,
+      "date": "26 May 2019",
+      "club": "Houghton CC",
+      "position": "29",
+      "time": "1:05:24",
+      "standard": "01:06:52",
+      "onStandard": "-00:01:28",
+      "speed": "22.94 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 104,
+      "vbarPosition": 17,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18250",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion (BBAR)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 10,
+      "date": "16 June 2019",
+      "club": "Houghton CC",
+      "position": "30",
+      "time": "1:02:23",
+      "standard": "01:06:52",
+      "onStandard": "-00:04:29",
+      "speed": "24.04 Mph",
+      "bar": 97,
+      "barPosition": 24,
+      "vbar": 102,
+      "vbarPosition": 19,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18252",
+      "raceCategory": "medium",
+      "name": "Houghton CC (BBAR)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 11,
+      "date": "23 June 2019",
+      "club": "Houghton CC",
+      "position": "14",
+      "time": "1:02:07",
+      "standard": "01:06:52",
+      "onStandard": "-00:04:45",
+      "speed": "24.15 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 109,
+      "vbarPosition": 12,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18256",
+      "raceCategory": "short",
+      "name": "Barnesbury CC (Cheques To B Bayne)(80 Riders)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 10,
+      "date": "10 July 2019",
+      "club": "Houghton CC",
+      "position": "35",
+      "time": "0:22:34",
+      "standard": "00:26:22",
+      "onStandard": "-00:03:48",
+      "speed": "26.59 Mph",
+      "bar": 91,
+      "barPosition": 30,
+      "vbar": 98,
+      "vbarPosition": 23,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18258",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC (Inc. N&DCA 25 Championship)(Cheques To S Dyson) (BBAR)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 11,
+      "date": "22 July 2019",
+      "club": "Houghton CC",
+      "position": "DNF",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18263",
+      "raceCategory": "long",
+      "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+      "course": "M5011",
+      "distance": 50,
+      "fee": 11,
+      "date": "04 August 2019",
+      "club": "Houghton CC",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18264",
+      "raceCategory": "short",
+      "name": "Barnesbury CC (Cheques To S Dodd)",
+      "course": "M102C",
+      "distance": 10,
+      "fee": 10,
+      "date": "18 August 2019",
+      "club": "Houghton CC",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18238",
+      "date": "30 March 2019",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 91,
+        "long": 0,
+        "grand": 91
+      },
+      "position": 30
+    },
+    {
+      "eventId": "18240",
+      "date": "13 April 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 91,
+        "long": 0,
+        "grand": 91
+      },
+      "position": 58
+    },
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 91,
+        "medium": 91,
+        "long": 0,
+        "grand": 182
+      },
+      "position": 34
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 91,
+        "medium": 91,
+        "long": 0,
+        "grand": 182
+      },
+      "position": 49
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 91,
+        "medium": 91,
+        "long": 0,
+        "grand": 182
+      },
+      "position": 63
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 91,
+        "medium": 91,
+        "long": 0,
+        "grand": 182
+      },
+      "position": 78
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 91,
+        "medium": 91,
+        "long": 0,
+        "grand": 182
+      },
+      "position": 82
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 91,
+        "medium": 187,
+        "long": 0,
+        "grand": 278
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 91,
+        "medium": 187,
+        "long": 0,
+        "grand": 278
+      },
+      "position": 64
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 91,
+        "medium": 187,
+        "long": 0,
+        "grand": 278
+      },
+      "position": 72
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 91,
+        "medium": 193,
+        "long": 0,
+        "grand": 284
+      },
+      "position": 74
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 91,
+        "medium": 193,
+        "long": 0,
+        "grand": 284
+      },
+      "position": 80
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 91,
+        "medium": 204,
+        "long": 0,
+        "grand": 295
+      },
+      "position": 81
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 91,
+        "medium": 204,
+        "long": 0,
+        "grand": 295
+      },
+      "position": 91
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 91,
+        "medium": 204,
+        "long": 0,
+        "grand": 295
+      },
+      "position": 94
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 70
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 74
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 78
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 78
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 82
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 86
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 88
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 182,
+        "medium": 204,
+        "long": 0,
+        "grand": 386
+      },
+      "position": 90
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18238",
+      "date": "30 March 2019",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 107,
+        "long": 0,
+        "grand": 107
+      },
+      "position": 14
+    },
+    {
+      "eventId": "18240",
+      "date": "13 April 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 107,
+        "long": 0,
+        "grand": 107
+      },
+      "position": 29
+    },
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 96,
+        "medium": 107,
+        "long": 0,
+        "grand": 203
+      },
+      "position": 24
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 96,
+        "medium": 107,
+        "long": 0,
+        "grand": 203
+      },
+      "position": 33
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 96,
+        "medium": 107,
+        "long": 0,
+        "grand": 203
+      },
+      "position": 40
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 96,
+        "medium": 107,
+        "long": 0,
+        "grand": 203
+      },
+      "position": 48
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 96,
+        "medium": 107,
+        "long": 0,
+        "grand": 203
+      },
+      "position": 53
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 96,
+        "medium": 211,
+        "long": 0,
+        "grand": 307
+      },
+      "position": 35
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 96,
+        "medium": 211,
+        "long": 0,
+        "grand": 307
+      },
+      "position": 43
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 96,
+        "medium": 211,
+        "long": 0,
+        "grand": 307
+      },
+      "position": 48
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 96,
+        "medium": 211,
+        "long": 0,
+        "grand": 307
+      },
+      "position": 52
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 96,
+        "medium": 211,
+        "long": 0,
+        "grand": 307
+      },
+      "position": 54
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 96,
+        "medium": 216,
+        "long": 0,
+        "grand": 312
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 96,
+        "medium": 216,
+        "long": 0,
+        "grand": 312
+      },
+      "position": 58
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 96,
+        "medium": 216,
+        "long": 0,
+        "grand": 312
+      },
+      "position": 59
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 44
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 45
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 48
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 48
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 52
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 194,
+        "medium": 216,
+        "long": 0,
+        "grand": 410
+      },
+      "position": 57
+    }
+  ]
+}

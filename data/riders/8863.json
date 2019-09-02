@@ -1,0 +1,800 @@
+{
+  "id": "8863",
+  "name": "Paul Robson",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Wearside Triathlon",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18252",
+        "raceCategory": "medium",
+        "name": "Houghton CC (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 11,
+        "date": "23 June 2019",
+        "club": "Wearside Triathlon",
+        "position": "13",
+        "time": "1:01:56",
+        "standard": "01:07:40",
+        "onStandard": "-00:05:44",
+        "speed": "24.22 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 111,
+        "vbarPosition": 10,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18250",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 10,
+        "date": "16 June 2019",
+        "club": "Wearside Triathlon",
+        "position": "26",
+        "time": "1:01:30",
+        "standard": "01:07:40",
+        "onStandard": "-00:06:10",
+        "speed": "24.39 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 106,
+        "vbarPosition": 15,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 104.5,
+    "averagePointsPerMediumRace": 104.5,
+    "averagePointsPerLongRace": 104.5,
+    "averagePointsPerRace": 104.5,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 31,
+    "remainingLongPoints": 120,
+    "remainingPoints": 511,
+    "predictedFinalPoints": 627,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 209,
+      "long": 0,
+      "grand": 209
+    },
+    "tags": [],
+    "currentPosition": 146,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 143,
+        "id": "6039",
+        "pointsDirection": 1,
+        "name": "Ben Johnson",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 105.5,
+        "predictedFinalPoints": 629.5,
+        "grandTotal": 211,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 109
+      },
+      {
+        "position": 144,
+        "id": "23821",
+        "pointsDirection": 1,
+        "name": "Damon Devine",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 105.5,
+        "predictedFinalPoints": 633,
+        "grandTotal": 211,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 145,
+        "id": "9264",
+        "pointsDirection": 1,
+        "name": "Denise Drummond",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 69.66666666666667,
+        "predictedFinalPoints": 423,
+        "grandTotal": 209,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 146,
+        "id": "8863",
+        "pointsDirection": 1,
+        "name": "Paul Robson",
+        "club": "Wearside Triathlon",
+        "averagePointsPerRace": 104.5,
+        "predictedFinalPoints": 627,
+        "grandTotal": 209,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 147,
+        "id": "30099",
+        "pointsDirection": 0,
+        "name": "Keith Taylor",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 100.5,
+        "predictedFinalPoints": 607.5,
+        "grandTotal": 201,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 148,
+        "id": "3218",
+        "pointsDirection": 0,
+        "name": "Mal Gray",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 100,
+        "predictedFinalPoints": 606,
+        "grandTotal": 200,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 94
+      },
+      {
+        "position": 149,
+        "id": "20540",
+        "pointsDirection": 0,
+        "name": "Peter Phillipson",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 96,
+        "predictedFinalPoints": 576,
+        "grandTotal": 192,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 101
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18252",
+        "raceCategory": "medium",
+        "name": "Houghton CC (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 11,
+        "date": "23 June 2019",
+        "club": "Wearside Triathlon",
+        "position": "13",
+        "time": "1:01:56",
+        "standard": "01:07:40",
+        "onStandard": "-00:05:44",
+        "speed": "24.22 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 111,
+        "vbarPosition": 10,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18250",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 10,
+        "date": "16 June 2019",
+        "club": "Wearside Triathlon",
+        "position": "26",
+        "time": "1:01:30",
+        "standard": "01:07:40",
+        "onStandard": "-00:06:10",
+        "speed": "24.39 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 106,
+        "vbarPosition": 15,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 108.5,
+    "averagePointsPerMediumRace": 108.5,
+    "averagePointsPerLongRace": 108.5,
+    "averagePointsPerRace": 108.5,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 23,
+    "remainingLongPoints": 120,
+    "remainingPoints": 503,
+    "predictedFinalPoints": 651,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 217,
+      "long": 0,
+      "grand": 217
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 VBAR"
+      }
+    ],
+    "currentPosition": 95,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 92,
+        "id": "20540",
+        "pointsDirection": 0,
+        "name": "Peter Phillipson",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 110,
+        "predictedFinalPoints": 660,
+        "grandTotal": 220,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 113
+      },
+      {
+        "position": 93,
+        "id": "3218",
+        "pointsDirection": 0,
+        "name": "Mal Gray",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 110,
+        "predictedFinalPoints": 662,
+        "grandTotal": 220,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 108
+      },
+      {
+        "position": 94,
+        "id": "23821",
+        "pointsDirection": 0,
+        "name": "Damon Devine",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 109.5,
+        "predictedFinalPoints": 657,
+        "grandTotal": 219,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 95,
+        "id": "8863",
+        "pointsDirection": 0,
+        "name": "Paul Robson",
+        "club": "Wearside Triathlon",
+        "averagePointsPerRace": 108.5,
+        "predictedFinalPoints": 651,
+        "grandTotal": 217,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 96,
+        "id": "444",
+        "pointsDirection": 0,
+        "name": "Mark Strang",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 638,
+        "grandTotal": 212,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 104,
+        "tieBreakPoints": 104
+      },
+      {
+        "position": 97,
+        "id": "11558",
+        "pointsDirection": 0,
+        "name": "Barry Fordham",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 212,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 98,
+        "id": "13754",
+        "pointsDirection": 0,
+        "name": "Stephen Walton",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 101.5,
+        "predictedFinalPoints": 609,
+        "grandTotal": 203,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18250",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion (BBAR)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 10,
+      "date": "16 June 2019",
+      "club": "Wearside Triathlon",
+      "position": "26",
+      "time": "1:01:30",
+      "standard": "01:07:40",
+      "onStandard": "-00:06:10",
+      "speed": "24.39 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 106,
+      "vbarPosition": 15,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18252",
+      "raceCategory": "medium",
+      "name": "Houghton CC (BBAR)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 11,
+      "date": "23 June 2019",
+      "club": "Wearside Triathlon",
+      "position": "13",
+      "time": "1:01:56",
+      "standard": "01:07:40",
+      "onStandard": "-00:05:44",
+      "speed": "24.22 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 111,
+      "vbarPosition": 10,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 101,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 169
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 101,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 171
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 119
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 124
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 125
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 131
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 136
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 140
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 141
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 143
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 145
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 145
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 209,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 146
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 106,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 107
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 106,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 110
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 78
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 80
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 80
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 85
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 88
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 90
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 90
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 93
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 93
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 95
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 217,
+        "long": 0,
+        "grand": 217
+      },
+      "position": 95
+    }
+  ]
+}

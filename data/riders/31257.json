@@ -1,0 +1,734 @@
+{
+  "id": "31257",
+  "name": "Christopher Isats",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Breeze Bikes RT",
+  "inBAR": true,
+  "inVBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "18263",
+        "raceCategory": "long",
+        "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+        "course": "M5011",
+        "distance": 50,
+        "fee": 11,
+        "date": "04 August 2019",
+        "club": "Breeze Bikes RT",
+        "position": "37",
+        "time": "2:10:18",
+        "standard": "02:17:24",
+        "onStandard": "-00:07:06",
+        "speed": "23.02 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 101,
+        "vbarPosition": 20,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 115,
+        "rbarPosition": 6,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 86,
+    "averagePointsPerMediumRace": 86,
+    "averagePointsPerLongRace": 86,
+    "averagePointsPerRace": 86,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 34,
+    "remainingPoints": 634,
+    "predictedFinalPoints": 516,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 86
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 86
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 86,
+      "grand": 86
+    },
+    "tags": [],
+    "currentPosition": 211,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 208,
+        "id": "1770",
+        "pointsDirection": 0,
+        "name": "Brian Johnson",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 88,
+        "predictedFinalPoints": 528,
+        "grandTotal": 88,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 88,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 209,
+        "id": "2311",
+        "pointsDirection": 0,
+        "name": "Paul Rider",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 87,
+        "predictedFinalPoints": 522,
+        "grandTotal": 87,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 87
+      },
+      {
+        "position": 210,
+        "id": "7765",
+        "pointsDirection": 0,
+        "name": "Darryl Manning",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 87,
+        "predictedFinalPoints": 522,
+        "grandTotal": 87,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 211,
+        "id": "31257",
+        "pointsDirection": 0,
+        "name": "Christopher Isats",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 86,
+        "predictedFinalPoints": 516,
+        "grandTotal": 86,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 86,
+        "tieBreakPoints": 86
+      },
+      {
+        "position": 212,
+        "id": "7543",
+        "pointsDirection": 0,
+        "name": "Paul Hollick",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 86,
+        "predictedFinalPoints": 516,
+        "grandTotal": 86,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 213,
+        "id": "31079",
+        "pointsDirection": 0,
+        "name": "Jay Sully",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 86,
+        "predictedFinalPoints": 516,
+        "grandTotal": 86,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 214,
+        "id": "26817",
+        "pointsDirection": 0,
+        "name": "Stan Allan",
+        "club": "GS Metro",
+        "averagePointsPerRace": 86,
+        "predictedFinalPoints": 516,
+        "grandTotal": 86,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "18263",
+        "raceCategory": "long",
+        "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+        "course": "M5011",
+        "distance": 50,
+        "fee": 11,
+        "date": "04 August 2019",
+        "club": "Breeze Bikes RT",
+        "position": "37",
+        "time": "2:10:18",
+        "standard": "02:17:24",
+        "onStandard": "-00:07:06",
+        "speed": "23.02 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 101,
+        "vbarPosition": 20,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 115,
+        "rbarPosition": 6,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 101,
+    "averagePointsPerMediumRace": 101,
+    "averagePointsPerLongRace": 101,
+    "averagePointsPerRace": 101,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 19,
+    "remainingPoints": 619,
+    "predictedFinalPoints": 606,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 101
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 101
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 101,
+      "grand": 101
+    },
+    "tags": [],
+    "currentPosition": 133,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 130,
+        "id": "7255",
+        "pointsDirection": 0,
+        "name": "Sandy Cheung",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 102,
+        "predictedFinalPoints": 612,
+        "grandTotal": 102,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 131,
+        "id": "29569",
+        "pointsDirection": 0,
+        "name": "Karen Wood",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 102,
+        "predictedFinalPoints": 612,
+        "grandTotal": 102,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 132,
+        "id": "16746",
+        "pointsDirection": 0,
+        "name": "Steven Mulvey",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 102,
+        "predictedFinalPoints": 612,
+        "grandTotal": 102,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 133,
+        "id": "31257",
+        "pointsDirection": 0,
+        "name": "Christopher Isats",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 606,
+        "grandTotal": 101,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 101,
+        "tieBreakPoints": 101
+      },
+      {
+        "position": 134,
+        "id": "7765",
+        "pointsDirection": 0,
+        "name": "Darryl Manning",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 606,
+        "grandTotal": 101,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 135,
+        "id": "8379",
+        "pointsDirection": 0,
+        "name": "Martin Heardman",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 606,
+        "grandTotal": 101,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 136,
+        "id": "31079",
+        "pointsDirection": 0,
+        "name": "Jay Sully",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 606,
+        "grandTotal": 101,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "rbar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "18263",
+        "raceCategory": "long",
+        "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+        "course": "M5011",
+        "distance": 50,
+        "fee": 11,
+        "date": "04 August 2019",
+        "club": "Breeze Bikes RT",
+        "position": "37",
+        "time": "2:10:18",
+        "standard": "02:17:24",
+        "onStandard": "-00:07:06",
+        "speed": "23.02 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 101,
+        "vbarPosition": 20,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 115,
+        "rbarPosition": 6,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 115,
+    "averagePointsPerMediumRace": 115,
+    "averagePointsPerLongRace": 115,
+    "averagePointsPerRace": 115,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 5,
+    "remainingPoints": 605,
+    "predictedFinalPoints": 690,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 115
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 115
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 115,
+      "grand": 115
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 RBAR"
+      }
+    ],
+    "currentPosition": 67,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "1207",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Jonathan Bayley",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 239,
+        "tieBreakPoints": 358
+      },
+      {
+        "position": 64,
+        "id": "8822",
+        "pointsDirection": 1,
+        "name": "Micky Mallen",
+        "club": "GS Metro",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 65,
+        "id": "2123",
+        "pointsDirection": 1,
+        "name": "Wayne Baker",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 115
+      },
+      {
+        "position": 66,
+        "id": "4590",
+        "pointsDirection": 1,
+        "name": "Lee Ager",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 115
+      },
+      {
+        "position": 67,
+        "id": "31257",
+        "pointsDirection": 1,
+        "name": "Christopher Isats",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 115,
+        "tieBreakPoints": 115
+      },
+      {
+        "position": 68,
+        "id": "29775",
+        "pointsDirection": 1,
+        "name": "Michael Sewell",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 69,
+        "id": "3088",
+        "pointsDirection": 1,
+        "name": "Nicholas Stevenson",
+        "club": "Wearside Triathlon",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 70,
+        "id": "30468",
+        "pointsDirection": 1,
+        "name": "Lewis Jackson",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18263",
+      "raceCategory": "long",
+      "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+      "course": "M5011",
+      "distance": 50,
+      "fee": 11,
+      "date": "04 August 2019",
+      "club": "Breeze Bikes RT",
+      "position": "37",
+      "time": "2:10:18",
+      "standard": "02:17:24",
+      "onStandard": "-00:07:06",
+      "speed": "23.02 Mph",
+      "bar": 86,
+      "barPosition": 35,
+      "vbar": 101,
+      "vbarPosition": 20,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 115,
+      "rbarPosition": 6,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 86,
+        "grand": 86
+      },
+      "position": 210
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 86,
+        "grand": 86
+      },
+      "position": 211
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 86,
+        "grand": 86
+      },
+      "position": 211
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 86,
+        "grand": 86
+      },
+      "position": 211
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 101,
+        "grand": 101
+      },
+      "position": 133
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 101,
+        "grand": 101
+      },
+      "position": 133
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 101,
+        "grand": 101
+      },
+      "position": 133
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 101,
+        "grand": 101
+      },
+      "position": 133
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 115,
+        "grand": 115
+      },
+      "position": 63
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 115,
+        "grand": 115
+      },
+      "position": 63
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 115,
+        "grand": 115
+      },
+      "position": 66
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 115,
+        "grand": 115
+      },
+      "position": 67
+    }
+  ]
+}

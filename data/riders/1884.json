@@ -1,0 +1,498 @@
+{
+  "id": "1884",
+  "name": "Don Speight",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Tyneside Vagabonds CC",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "18263",
+        "raceCategory": "long",
+        "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+        "course": "M5011",
+        "distance": 50,
+        "fee": 11,
+        "date": "04 August 2019",
+        "club": "Tyneside Vagabonds CC",
+        "position": "43",
+        "time": "2:12:49",
+        "standard": "02:21:59",
+        "onStandard": "-00:09:10",
+        "speed": "22.59 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 105,
+        "vbarPosition": 16,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 80,
+    "averagePointsPerMediumRace": 80,
+    "averagePointsPerLongRace": 80,
+    "averagePointsPerRace": 80,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 40,
+    "remainingPoints": 640,
+    "predictedFinalPoints": 480,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 80
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 80
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 80,
+      "grand": 80
+    },
+    "tags": [],
+    "currentPosition": 222,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 219,
+        "id": "30152",
+        "pointsDirection": 0,
+        "name": "David Hardy",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 486,
+        "grandTotal": 81,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 220,
+        "id": "30468",
+        "pointsDirection": 0,
+        "name": "Lewis Jackson",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 486,
+        "grandTotal": 81,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 221,
+        "id": "324",
+        "pointsDirection": 0,
+        "name": "Stuart Cook",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 486,
+        "grandTotal": 81,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 222,
+        "id": "1884",
+        "pointsDirection": 0,
+        "name": "Don Speight",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 80,
+        "predictedFinalPoints": 480,
+        "grandTotal": 80,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 80,
+        "tieBreakPoints": 80
+      },
+      {
+        "position": 223,
+        "id": "30556",
+        "pointsDirection": 0,
+        "name": "James Mccaslin",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 80,
+        "predictedFinalPoints": 480,
+        "grandTotal": 80,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 224,
+        "id": "6464",
+        "pointsDirection": 0,
+        "name": "Melanie Annable",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 79,
+        "predictedFinalPoints": 474,
+        "grandTotal": 79,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 225,
+        "id": "24659",
+        "pointsDirection": 0,
+        "name": "Chip Ponsford",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 78,
+        "predictedFinalPoints": 468,
+        "grandTotal": 78,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "18263",
+        "raceCategory": "long",
+        "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+        "course": "M5011",
+        "distance": 50,
+        "fee": 11,
+        "date": "04 August 2019",
+        "club": "Tyneside Vagabonds CC",
+        "position": "43",
+        "time": "2:12:49",
+        "standard": "02:21:59",
+        "onStandard": "-00:09:10",
+        "speed": "22.59 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 105,
+        "vbarPosition": 16,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 105,
+    "averagePointsPerMediumRace": 105,
+    "averagePointsPerLongRace": 105,
+    "averagePointsPerRace": 105,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 15,
+    "remainingPoints": 615,
+    "predictedFinalPoints": 630,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 105
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 105
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 105,
+      "grand": 105
+    },
+    "tags": [],
+    "currentPosition": 127,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 124,
+        "id": "15551",
+        "pointsDirection": 0,
+        "name": "Robert Munro",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 106
+      },
+      {
+        "position": 125,
+        "id": "1770",
+        "pointsDirection": 0,
+        "name": "Brian Johnson",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 106,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 126,
+        "id": "25803",
+        "pointsDirection": 0,
+        "name": "Paul Findlay",
+        "club": "GS Metro",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 127,
+        "id": "1884",
+        "pointsDirection": 0,
+        "name": "Don Speight",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 105,
+        "tieBreakPoints": 105
+      },
+      {
+        "position": 128,
+        "id": "19604",
+        "pointsDirection": 0,
+        "name": "Anthony Horsley",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 129,
+        "id": "26817",
+        "pointsDirection": 0,
+        "name": "Stan Allan",
+        "club": "GS Metro",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 130,
+        "id": "7255",
+        "pointsDirection": 0,
+        "name": "Sandy Cheung",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 102,
+        "predictedFinalPoints": 612,
+        "grandTotal": 102,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18263",
+      "raceCategory": "long",
+      "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+      "course": "M5011",
+      "distance": 50,
+      "fee": 11,
+      "date": "04 August 2019",
+      "club": "Tyneside Vagabonds CC",
+      "position": "43",
+      "time": "2:12:49",
+      "standard": "02:21:59",
+      "onStandard": "-00:09:10",
+      "speed": "22.59 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 105,
+      "vbarPosition": 16,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 80,
+        "grand": 80
+      },
+      "position": 221
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 80,
+        "grand": 80
+      },
+      "position": 222
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 80,
+        "grand": 80
+      },
+      "position": 222
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 80,
+        "grand": 80
+      },
+      "position": 222
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 105,
+        "grand": 105
+      },
+      "position": 125
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 105,
+        "grand": 105
+      },
+      "position": 125
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 105,
+        "grand": 105
+      },
+      "position": 127
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 105,
+        "grand": 105
+      },
+      "position": 127
+    }
+  ]
+}

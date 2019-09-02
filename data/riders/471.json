@@ -1,0 +1,193 @@
+{
+  "id": "471",
+  "name": "Gareth Clarke",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Cestria C.C.",
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 451,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 448,
+        "id": "25479",
+        "pointsDirection": 0,
+        "name": "Neil Lawson",
+        "club": "Musselburgh RCC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 449,
+        "id": "5970",
+        "pointsDirection": 0,
+        "name": "Patrick Martin",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 450,
+        "id": "31312",
+        "pointsDirection": 0,
+        "name": "Maurice Harbottle",
+        "club": "GS Metro",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 451,
+        "id": "471",
+        "pointsDirection": 0,
+        "name": "Gareth Clarke",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 452,
+        "id": "25290",
+        "pointsDirection": 0,
+        "name": "Tommy Murray",
+        "club": "Hawick Cycling Club",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 453,
+        "id": "2663",
+        "pointsDirection": 0,
+        "name": "David Beattie",
+        "club": "Hawick Cycling Club",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 454,
+        "id": "1148",
+        "pointsDirection": 0,
+        "name": "Paul Guest",
+        "club": "Worcester St. Johns CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18263",
+      "raceCategory": "long",
+      "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+      "course": "M5011",
+      "distance": 50,
+      "fee": 11,
+      "date": "04 August 2019",
+      "club": "Cestria C.C.",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ]
+}

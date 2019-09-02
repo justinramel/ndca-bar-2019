@@ -1,0 +1,762 @@
+{
+  "id": "8791",
+  "name": "Peter Davison",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Alnwick Cycling Club",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18247",
+        "raceCategory": "short",
+        "name": "Alnwick CC",
+        "course": "M13",
+        "distance": 13,
+        "fee": 11,
+        "date": "01 June 2019",
+        "club": "Alnwick Cycling Club",
+        "position": "52",
+        "time": "0:35:20",
+        "standard": "00:35:28",
+        "onStandard": "-00:00:08",
+        "speed": "22.08 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 93,
+        "vbarPosition": 28,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 82,
+    "averagePointsPerMediumRace": 82,
+    "averagePointsPerLongRace": 82,
+    "averagePointsPerRace": 82,
+    "remainingShortPoints": 278,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 638,
+    "predictedFinalPoints": 492,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 82,
+      "medium": 0,
+      "long": 0,
+      "grand": 82
+    },
+    "tags": [],
+    "currentPosition": 218,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 215,
+        "id": "1890",
+        "pointsDirection": 0,
+        "name": "Christian Roberts",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 510,
+        "grandTotal": 85,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 85,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 216,
+        "id": "30785",
+        "pointsDirection": 0,
+        "name": "David Cable",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 83,
+        "predictedFinalPoints": 498,
+        "grandTotal": 83,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 217,
+        "id": "30461",
+        "pointsDirection": 0,
+        "name": "Chris Smith",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 82,
+        "predictedFinalPoints": 492,
+        "grandTotal": 82,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 218,
+        "id": "8791",
+        "pointsDirection": 0,
+        "name": "Peter Davison",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 82,
+        "predictedFinalPoints": 492,
+        "grandTotal": 82,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 219,
+        "id": "30152",
+        "pointsDirection": 0,
+        "name": "David Hardy",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 486,
+        "grandTotal": 81,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 220,
+        "id": "30468",
+        "pointsDirection": 0,
+        "name": "Lewis Jackson",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 486,
+        "grandTotal": 81,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 221,
+        "id": "324",
+        "pointsDirection": 0,
+        "name": "Stuart Cook",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 486,
+        "grandTotal": 81,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18247",
+        "raceCategory": "short",
+        "name": "Alnwick CC",
+        "course": "M13",
+        "distance": 13,
+        "fee": 11,
+        "date": "01 June 2019",
+        "club": "Alnwick Cycling Club",
+        "position": "52",
+        "time": "0:35:20",
+        "standard": "00:35:28",
+        "onStandard": "-00:00:08",
+        "speed": "22.08 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 93,
+        "vbarPosition": 28,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 93,
+    "averagePointsPerMediumRace": 93,
+    "averagePointsPerLongRace": 93,
+    "averagePointsPerRace": 93,
+    "remainingShortPoints": 267,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 627,
+    "predictedFinalPoints": 558,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 93,
+      "medium": 0,
+      "long": 0,
+      "grand": 93
+    },
+    "tags": [],
+    "currentPosition": 151,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 148,
+        "id": "24659",
+        "pointsDirection": 0,
+        "name": "Chip Ponsford",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 95,
+        "predictedFinalPoints": 570,
+        "grandTotal": 95,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 149,
+        "id": "5885",
+        "pointsDirection": 0,
+        "name": "Richard Sill",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 93,
+        "predictedFinalPoints": 558,
+        "grandTotal": 93,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 150,
+        "id": "6845",
+        "pointsDirection": 0,
+        "name": "Jo Scott",
+        "club": "Team Swift",
+        "averagePointsPerRace": 93,
+        "predictedFinalPoints": 558,
+        "grandTotal": 93,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 151,
+        "id": "8791",
+        "pointsDirection": 0,
+        "name": "Peter Davison",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 93,
+        "predictedFinalPoints": 558,
+        "grandTotal": 93,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 152,
+        "id": "16197",
+        "pointsDirection": 0,
+        "name": "Christopher Thompson",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 92,
+        "predictedFinalPoints": 552,
+        "grandTotal": 92,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 153,
+        "id": "8339",
+        "pointsDirection": 0,
+        "name": "James Allen",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 91,
+        "predictedFinalPoints": 546,
+        "grandTotal": 91,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 154,
+        "id": "1782",
+        "pointsDirection": 0,
+        "name": "Stephen Roberts",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 540,
+        "grandTotal": 90,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18247",
+      "raceCategory": "short",
+      "name": "Alnwick CC",
+      "course": "M13",
+      "distance": 13,
+      "fee": 11,
+      "date": "01 June 2019",
+      "club": "Alnwick Cycling Club",
+      "position": "52",
+      "time": "0:35:20",
+      "standard": "00:35:28",
+      "onStandard": "-00:00:08",
+      "speed": "22.08 Mph",
+      "bar": 82,
+      "barPosition": 39,
+      "vbar": 93,
+      "vbarPosition": 28,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 165
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 174
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 183
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 185
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 188
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 193
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 198
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 198
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 202
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 204
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 213
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 217
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 218
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 218
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 218
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 114
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 123
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 129
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 131
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 133
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 136
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 138
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 139
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 141
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 142
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 148
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 151
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 151
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 151
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 93,
+        "medium": 0,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 151
+    }
+  ]
+}

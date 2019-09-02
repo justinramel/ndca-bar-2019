@@ -1,0 +1,193 @@
+{
+  "id": "23469",
+  "name": "Andrew Jackman",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Physiohaus Health and Performance",
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 402,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 399,
+        "id": "20995",
+        "pointsDirection": 0,
+        "name": "Brian Ward",
+        "club": "Team Protech SB",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 400,
+        "id": "5595",
+        "pointsDirection": 0,
+        "name": "Eddie Addis",
+        "club": "RT 23",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 401,
+        "id": "15416",
+        "pointsDirection": 0,
+        "name": "Adam Hogarth",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 402,
+        "id": "23469",
+        "pointsDirection": 0,
+        "name": "Andrew Jackman",
+        "club": "Physiohaus Health and Performance",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 403,
+        "id": "15251",
+        "pointsDirection": 0,
+        "name": "Stephen Knight",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 404,
+        "id": "942",
+        "pointsDirection": 0,
+        "name": "Russ Richardson",
+        "club": "Teesdale CRC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 405,
+        "id": "3632",
+        "pointsDirection": 0,
+        "name": "Frank Montague",
+        "club": "TS Racing Team - OTR",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18245",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 13,
+      "date": "19 May 2019",
+      "club": "Physiohaus Health and Performance",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ]
+}

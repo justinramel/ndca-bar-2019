@@ -1,0 +1,339 @@
+{
+  "id": "21284",
+  "name": "Lee Cuthbertson",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Muckle Cycle Club",
+  "inBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18260",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 11,
+        "date": "27 July 2019",
+        "club": "Muckle Cycle Club",
+        "position": "10",
+        "time": "1:04:52",
+        "standard": "",
+        "onStandard": "",
+        "speed": "24.05 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18263",
+        "raceCategory": "long",
+        "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+        "course": "M5011",
+        "distance": 50,
+        "fee": 11,
+        "date": "04 August 2019",
+        "club": "Muckle Cycle Club",
+        "position": "14",
+        "time": "2:01:28",
+        "standard": "",
+        "onStandard": "",
+        "speed": "24.70 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 1,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 110,
+    "averagePointsPerMediumRace": 112,
+    "averagePointsPerLongRace": 108,
+    "averagePointsPerRace": 110,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 128,
+    "remainingLongPoints": 12,
+    "remainingPoints": 500,
+    "predictedFinalPoints": 662,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 108
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 108
+    },
+    "totals": {
+      "short": 0,
+      "medium": 112,
+      "long": 108,
+      "grand": 220
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 BAR"
+      }
+    ],
+    "currentPosition": 139,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 136,
+        "id": "29307",
+        "pointsDirection": 1,
+        "name": "Craig Nicholl",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 74.66666666666667,
+        "predictedFinalPoints": 421,
+        "grandTotal": 224,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 62
+      },
+      {
+        "position": 137,
+        "id": "14110",
+        "pointsDirection": 1,
+        "name": "Shaun Brannan",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 110.5,
+        "predictedFinalPoints": 660,
+        "grandTotal": 221,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 112,
+        "tieBreakPoints": 112
+      },
+      {
+        "position": 138,
+        "id": "29311",
+        "pointsDirection": 1,
+        "name": "Harris Hall",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 73.66666666666667,
+        "predictedFinalPoints": 442.00000000000006,
+        "grandTotal": 221,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 139,
+        "id": "21284",
+        "pointsDirection": 1,
+        "name": "Lee Cuthbertson",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 110,
+        "predictedFinalPoints": 662,
+        "grandTotal": 220,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 108,
+        "tieBreakPoints": 108
+      },
+      {
+        "position": 140,
+        "id": "19288",
+        "pointsDirection": 1,
+        "name": "Ronnie Thompson",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 73.33333333333333,
+        "predictedFinalPoints": 435,
+        "grandTotal": 220,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 131,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 141,
+        "id": "25571",
+        "pointsDirection": 1,
+        "name": "Tony Mccann",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 73,
+        "predictedFinalPoints": 435,
+        "grandTotal": 219,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 142,
+        "id": "3693",
+        "pointsDirection": 1,
+        "name": "Ken Thursby",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 108,
+        "predictedFinalPoints": 649,
+        "grandTotal": 216,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 109,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18260",
+      "raceCategory": "medium",
+      "name": "GS Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 11,
+      "date": "27 July 2019",
+      "club": "Muckle Cycle Club",
+      "position": "10",
+      "time": "1:04:52",
+      "standard": "",
+      "onStandard": "",
+      "speed": "24.05 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18263",
+      "raceCategory": "long",
+      "name": "South Shields Velo CC (N&DCA Championship) (BBAR)",
+      "course": "M5011",
+      "distance": 50,
+      "fee": 11,
+      "date": "04 August 2019",
+      "club": "Muckle Cycle Club",
+      "position": "14",
+      "time": "2:01:28",
+      "standard": "",
+      "onStandard": "",
+      "speed": "24.70 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 112,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 176
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 112,
+        "long": 108,
+        "grand": 220
+      },
+      "position": 134
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 112,
+        "long": 108,
+        "grand": 220
+      },
+      "position": 136
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 112,
+        "long": 108,
+        "grand": 220
+      },
+      "position": 138
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 112,
+        "long": 108,
+        "grand": 220
+      },
+      "position": 139
+    }
+  ]
+}

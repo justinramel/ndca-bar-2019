@@ -1,0 +1,736 @@
+{
+  "id": "1117",
+  "name": "Mark Flannery",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Team Swift",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18250",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 10,
+        "date": "16 June 2019",
+        "club": "Team Swift",
+        "position": "4",
+        "time": "0:55:22",
+        "standard": "01:07:40",
+        "onStandard": "-00:12:18",
+        "speed": "27.09 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 118,
+        "vbarPosition": 3,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 117,
+    "averagePointsPerMediumRace": 117,
+    "averagePointsPerLongRace": 117,
+    "averagePointsPerRace": 117,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 123,
+    "remainingLongPoints": 120,
+    "remainingPoints": 603,
+    "predictedFinalPoints": 702,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 117,
+      "long": 0,
+      "grand": 117
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 BAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 BAR"
+      }
+    ],
+    "currentPosition": 175,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 172,
+        "id": "16809",
+        "pointsDirection": 0,
+        "name": "Collin Humphrey",
+        "club": "Team Kirkley Cycles",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 119,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 119,
+        "tieBreakPoints": 119
+      },
+      {
+        "position": 173,
+        "id": "65",
+        "pointsDirection": 0,
+        "name": "Carl Donaldson",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 119,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 174,
+        "id": "9755",
+        "pointsDirection": 0,
+        "name": "Dave Diston",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 118
+      },
+      {
+        "position": 175,
+        "id": "1117",
+        "pointsDirection": 0,
+        "name": "Mark Flannery",
+        "club": "Team Swift",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 176,
+        "id": "4175",
+        "pointsDirection": 0,
+        "name": "Danny Grieves",
+        "club": "GS Metro",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 177,
+        "id": "21457",
+        "pointsDirection": 0,
+        "name": "Nicholas Weddle",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 178,
+        "id": "6348",
+        "pointsDirection": 0,
+        "name": "Josh Craven",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 114,
+        "predictedFinalPoints": 684,
+        "grandTotal": 114,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 114
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18250",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 10,
+        "date": "16 June 2019",
+        "club": "Team Swift",
+        "position": "4",
+        "time": "0:55:22",
+        "standard": "01:07:40",
+        "onStandard": "-00:12:18",
+        "speed": "27.09 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 118,
+        "vbarPosition": 3,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 118,
+    "averagePointsPerLongRace": 118,
+    "averagePointsPerRace": 118,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 122,
+    "remainingLongPoints": 120,
+    "remainingPoints": 602,
+    "predictedFinalPoints": 708,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 118,
+      "long": 0,
+      "grand": 118
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x 3rd VBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 VBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 VBAR"
+      }
+    ],
+    "currentPosition": 112,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 109,
+        "id": "29293",
+        "pointsDirection": 0,
+        "name": "John Beecroft",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 82.5,
+        "predictedFinalPoints": 493.5,
+        "grandTotal": 165,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 110,
+        "id": "18377",
+        "pointsDirection": 0,
+        "name": "Sean Bell",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 80,
+        "predictedFinalPoints": 480,
+        "grandTotal": 160,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 70
+      },
+      {
+        "position": 111,
+        "id": "16809",
+        "pointsDirection": 0,
+        "name": "Collin Humphrey",
+        "club": "Team Kirkley Cycles",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 120,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 119,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 112,
+        "id": "1117",
+        "pointsDirection": 0,
+        "name": "Mark Flannery",
+        "club": "Team Swift",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 113,
+        "id": "866",
+        "pointsDirection": 0,
+        "name": "Colin Atkinson",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 114,
+        "id": "6100",
+        "pointsDirection": 0,
+        "name": "Lucy Siddle",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 115,
+        "id": "26754",
+        "pointsDirection": 0,
+        "name": "Simon Douglas",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 114,
+        "predictedFinalPoints": 684,
+        "grandTotal": 114,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18250",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion (BBAR)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 10,
+      "date": "16 June 2019",
+      "club": "Team Swift",
+      "position": "4",
+      "time": "0:55:22",
+      "standard": "01:07:40",
+      "onStandard": "-00:12:18",
+      "speed": "27.09 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 118,
+      "vbarPosition": 3,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 148
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 149
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 154
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 158
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 161
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 164
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 166
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 169
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 170
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 171
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 172
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 175
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 117,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 175
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 96
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 97
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 100
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 102
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 103
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 105
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 106
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 109
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 109
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 109
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 109
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 112
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 112
+    }
+  ]
+}

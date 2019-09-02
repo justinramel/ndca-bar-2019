@@ -1,0 +1,587 @@
+{
+  "id": "25670",
+  "name": "Claire Harlow",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "North Tyneside Riders CC",
+  "inBAR": true,
+  "inWBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18258",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC (Inc. N&DCA 25 Championship)(Cheques To S Dyson) (BBAR)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 11,
+        "date": "22 July 2019",
+        "club": "North Tyneside Riders CC",
+        "position": "71",
+        "time": "1:10:10",
+        "standard": "",
+        "onStandard": "",
+        "speed": "21.38 Mph",
+        "bar": 64,
+        "barPosition": 57,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 115,
+        "wbarPosition": 6,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 64,
+    "averagePointsPerMediumRace": 64,
+    "averagePointsPerLongRace": 64,
+    "averagePointsPerRace": 64,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 176,
+    "remainingLongPoints": 120,
+    "remainingPoints": 656,
+    "predictedFinalPoints": 384,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 64
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 64,
+      "long": 0,
+      "grand": 64
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 251,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 248,
+        "id": "25092",
+        "pointsDirection": 0,
+        "name": "Kevin Gunn",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 65,
+        "predictedFinalPoints": 390,
+        "grandTotal": 65,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 249,
+        "id": "5885",
+        "pointsDirection": 0,
+        "name": "Richard Sill",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 64,
+        "predictedFinalPoints": 384,
+        "grandTotal": 64,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 250,
+        "id": "19969",
+        "pointsDirection": 0,
+        "name": "Alan Younger",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 64,
+        "predictedFinalPoints": 384,
+        "grandTotal": 64,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 251,
+        "id": "25670",
+        "pointsDirection": 0,
+        "name": "Claire Harlow",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 64,
+        "predictedFinalPoints": 384,
+        "grandTotal": 64,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 64,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 252,
+        "id": "17859",
+        "pointsDirection": 0,
+        "name": "Roy Cassap",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 63,
+        "predictedFinalPoints": 378,
+        "grandTotal": 63,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 63
+      },
+      {
+        "position": 253,
+        "id": "29245",
+        "pointsDirection": 0,
+        "name": "Leigh Blanks",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 62,
+        "predictedFinalPoints": 372,
+        "grandTotal": 62,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 254,
+        "id": "28410",
+        "pointsDirection": 0,
+        "name": "Derek Eiles",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 62,
+        "predictedFinalPoints": 372,
+        "grandTotal": 62,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "wbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18258",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC (Inc. N&DCA 25 Championship)(Cheques To S Dyson) (BBAR)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 11,
+        "date": "22 July 2019",
+        "club": "North Tyneside Riders CC",
+        "position": "71",
+        "time": "1:10:10",
+        "standard": "",
+        "onStandard": "",
+        "speed": "21.38 Mph",
+        "bar": 64,
+        "barPosition": 57,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 115,
+        "wbarPosition": 6,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 115,
+    "averagePointsPerMediumRace": 115,
+    "averagePointsPerLongRace": 115,
+    "averagePointsPerRace": 115,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 125,
+    "remainingLongPoints": 120,
+    "remainingPoints": 605,
+    "predictedFinalPoints": 690,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 115
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 115,
+      "long": 0,
+      "grand": 115
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 WBAR"
+      },
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 33,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "16184",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Gemma Frost",
+        "club": "Team Swift",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 359,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 30,
+        "id": "6464",
+        "pointsDirection": 0,
+        "name": "Melanie Annable",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 31,
+        "id": "3953",
+        "pointsDirection": 0,
+        "name": "Hannah Baker",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 32,
+        "id": "6845",
+        "pointsDirection": 0,
+        "name": "Jo Scott",
+        "club": "Team Swift",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 33,
+        "id": "25670",
+        "pointsDirection": 0,
+        "name": "Claire Harlow",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 115,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 34,
+        "id": "9864",
+        "pointsDirection": 0,
+        "name": "Claire Cook",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 678,
+        "grandTotal": 113,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 113
+      },
+      {
+        "position": 35,
+        "id": "29569",
+        "pointsDirection": 0,
+        "name": "Karen Wood",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 678,
+        "grandTotal": 113,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 36,
+        "id": "16436",
+        "pointsDirection": 0,
+        "name": "Lisa Williams",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 112,
+        "predictedFinalPoints": 672,
+        "grandTotal": 112,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18258",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC (Inc. N&DCA 25 Championship)(Cheques To S Dyson) (BBAR)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 11,
+      "date": "22 July 2019",
+      "club": "North Tyneside Riders CC",
+      "position": "71",
+      "time": "1:10:10",
+      "standard": "",
+      "onStandard": "",
+      "speed": "21.38 Mph",
+      "bar": 64,
+      "barPosition": 57,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 115,
+      "wbarPosition": 6,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18264",
+      "raceCategory": "short",
+      "name": "Barnesbury CC (Cheques To S Dodd)",
+      "course": "M102C",
+      "distance": 10,
+      "fee": 10,
+      "date": "18 August 2019",
+      "club": "North Tyneside Riders CC",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 235
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 244
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 250
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 251
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 251
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 251
+    }
+  ],
+  "wbarHistory": [
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 115,
+        "long": 0,
+        "grand": 115
+      },
+      "position": 33
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 115,
+        "long": 0,
+        "grand": 115
+      },
+      "position": 33
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 115,
+        "long": 0,
+        "grand": 115
+      },
+      "position": 33
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 115,
+        "long": 0,
+        "grand": 115
+      },
+      "position": 33
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 115,
+        "long": 0,
+        "grand": 115
+      },
+      "position": 33
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 115,
+        "long": 0,
+        "grand": 115
+      },
+      "position": 33
+    }
+  ]
+}

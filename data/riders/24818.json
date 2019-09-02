@@ -1,0 +1,693 @@
+{
+  "id": "24818",
+  "name": "Ian Dick",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Derwentside CC",
+  "inBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18257",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 11,
+        "date": "14 July 2019",
+        "club": "Derwentside CC",
+        "position": "8",
+        "time": "0:38:35",
+        "standard": "",
+        "onStandard": "",
+        "speed": "21.77 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18253",
+        "raceCategory": "short",
+        "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 11,
+        "date": "29 June 2019",
+        "club": "Derwentside CC",
+        "position": "16",
+        "time": "0:25:09",
+        "standard": "",
+        "onStandard": "",
+        "speed": "23.62 Mph",
+        "bar": 106,
+        "barPosition": 15,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18242",
+        "raceCategory": "short",
+        "name": "Houghton CC",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 11,
+        "date": "28 April 2019",
+        "club": "Derwentside CC",
+        "position": "21",
+        "time": "0:24:37",
+        "standard": "",
+        "onStandard": "",
+        "speed": "24.37 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18252",
+        "raceCategory": "medium",
+        "name": "Houghton CC (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 11,
+        "date": "23 June 2019",
+        "club": "Derwentside CC",
+        "position": "10",
+        "time": "1:00:19",
+        "standard": "",
+        "onStandard": "",
+        "speed": "24.87 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 107,
+    "averagePointsPerMediumRace": 112,
+    "averagePointsPerLongRace": 108.25,
+    "averagePointsPerRace": 108.25,
+    "remainingShortPoints": 39,
+    "remainingMediumPoints": 128,
+    "remainingLongPoints": 120,
+    "remainingPoints": 287,
+    "predictedFinalPoints": 657,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 106
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 90
+    },
+    "totals": {
+      "short": 321,
+      "medium": 112,
+      "long": 0,
+      "grand": 433
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x Top 10 BAR"
+      }
+    ],
+    "currentPosition": 81,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 78,
+        "id": "1816",
+        "pointsDirection": 0,
+        "name": "Rick Mitford",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 549.5,
+        "grandTotal": 450,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 84,
+        "tieBreakPoints": 77
+      },
+      {
+        "position": 79,
+        "id": "26059",
+        "pointsDirection": 0,
+        "name": "Simon Clark",
+        "club": "GS Metro",
+        "averagePointsPerRace": 110,
+        "predictedFinalPoints": 656,
+        "grandTotal": 440,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 111,
+        "tieBreakPoints": 102
+      },
+      {
+        "position": 80,
+        "id": "7048",
+        "pointsDirection": -2,
+        "name": "Ross Gray",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 108.5,
+        "predictedFinalPoints": 634,
+        "grandTotal": 434,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 113,
+        "tieBreakPoints": 92
+      },
+      {
+        "position": 81,
+        "id": "24818",
+        "pointsDirection": 1,
+        "name": "Ian Dick",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 108.25,
+        "predictedFinalPoints": 657,
+        "grandTotal": 433,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 106,
+        "tieBreakPoints": 90
+      },
+      {
+        "position": 82,
+        "id": "6872",
+        "pointsDirection": -28,
+        "name": "David Robinson",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 420,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 83,
+        "id": "2727",
+        "pointsDirection": 2,
+        "name": "Wayne Coates",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 416,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 196
+      },
+      {
+        "position": 84,
+        "id": "1908",
+        "pointsDirection": 1,
+        "name": "Fiona Burnie",
+        "club": "GS Metro",
+        "averagePointsPerRace": 101.75,
+        "predictedFinalPoints": 595,
+        "grandTotal": 407,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 101,
+        "tieBreakPoints": 100
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18241",
+      "raceCategory": "short",
+      "name": "South Shields Velo",
+      "course": "M101",
+      "distance": 10,
+      "fee": 11,
+      "date": "20 April 2019",
+      "club": "Derwentside CC",
+      "position": "41",
+      "time": "0:22:10",
+      "standard": "",
+      "onStandard": "",
+      "speed": "27.07 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18242",
+      "raceCategory": "short",
+      "name": "Houghton CC",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 11,
+      "date": "28 April 2019",
+      "club": "Derwentside CC",
+      "position": "21",
+      "time": "0:24:37",
+      "standard": "",
+      "onStandard": "",
+      "speed": "24.37 Mph",
+      "bar": 102,
+      "barPosition": 19,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18244",
+      "raceCategory": "short",
+      "name": "Tyne & Wear Fire Service CC",
+      "course": "M12",
+      "distance": 12,
+      "fee": 11,
+      "date": "11 May 2019",
+      "club": "Derwentside CC",
+      "position": "30",
+      "time": "0:31:43",
+      "standard": "",
+      "onStandard": "",
+      "speed": "22.70 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18252",
+      "raceCategory": "medium",
+      "name": "Houghton CC (BBAR)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 11,
+      "date": "23 June 2019",
+      "club": "Derwentside CC",
+      "position": "10",
+      "time": "1:00:19",
+      "standard": "",
+      "onStandard": "",
+      "speed": "24.87 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18253",
+      "raceCategory": "short",
+      "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 11,
+      "date": "29 June 2019",
+      "club": "Derwentside CC",
+      "position": "16",
+      "time": "0:25:09",
+      "standard": "",
+      "onStandard": "",
+      "speed": "23.62 Mph",
+      "bar": 106,
+      "barPosition": 15,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18257",
+      "raceCategory": "short",
+      "name": "Blaydon CC",
+      "course": "M14",
+      "distance": 14,
+      "fee": 11,
+      "date": "14 July 2019",
+      "club": "Derwentside CC",
+      "position": "8",
+      "time": "0:38:35",
+      "standard": "",
+      "onStandard": "",
+      "speed": "21.77 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 87
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 192,
+        "medium": 0,
+        "long": 0,
+        "grand": 192
+      },
+      "position": 46
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 192,
+        "medium": 0,
+        "long": 0,
+        "grand": 192
+      },
+      "position": 59
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 285,
+        "medium": 0,
+        "long": 0,
+        "grand": 285
+      },
+      "position": 34
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 285,
+        "medium": 0,
+        "long": 0,
+        "grand": 285
+      },
+      "position": 42
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 285,
+        "medium": 0,
+        "long": 0,
+        "grand": 285
+      },
+      "position": 51
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 285,
+        "medium": 0,
+        "long": 0,
+        "grand": 285
+      },
+      "position": 59
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 285,
+        "medium": 0,
+        "long": 0,
+        "grand": 285
+      },
+      "position": 67
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 285,
+        "medium": 0,
+        "long": 0,
+        "grand": 285
+      },
+      "position": 73
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 285,
+        "medium": 0,
+        "long": 0,
+        "grand": 285
+      },
+      "position": 79
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 285,
+        "medium": 112,
+        "long": 0,
+        "grand": 397
+      },
+      "position": 52
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 301,
+        "medium": 112,
+        "long": 0,
+        "grand": 413
+      },
+      "position": 54
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 301,
+        "medium": 112,
+        "long": 0,
+        "grand": 413
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 301,
+        "medium": 112,
+        "long": 0,
+        "grand": 413
+      },
+      "position": 61
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 321,
+        "medium": 112,
+        "long": 0,
+        "grand": 433
+      },
+      "position": 62
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 321,
+        "medium": 112,
+        "long": 0,
+        "grand": 433
+      },
+      "position": 66
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 321,
+        "medium": 112,
+        "long": 0,
+        "grand": 433
+      },
+      "position": 66
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 321,
+        "medium": 112,
+        "long": 0,
+        "grand": 433
+      },
+      "position": 74
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 321,
+        "medium": 112,
+        "long": 0,
+        "grand": 433
+      },
+      "position": 77
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 321,
+        "medium": 112,
+        "long": 0,
+        "grand": 433
+      },
+      "position": 80
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 321,
+        "medium": 112,
+        "long": 0,
+        "grand": 433
+      },
+      "position": 81
+    }
+  ]
+}

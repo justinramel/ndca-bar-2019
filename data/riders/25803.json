@@ -1,0 +1,522 @@
+{
+  "id": "25803",
+  "name": "Paul Findlay",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "GS Metro",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18260",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 11,
+        "date": "27 July 2019",
+        "club": "GS Metro",
+        "position": "33",
+        "time": "1:18:04",
+        "standard": "01:11:54",
+        "onStandard": "00:06:10",
+        "speed": "19.98 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 106,
+        "vbarPosition": 15,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 92,
+    "averagePointsPerMediumRace": 92,
+    "averagePointsPerLongRace": 92,
+    "averagePointsPerRace": 92,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 148,
+    "remainingLongPoints": 120,
+    "remainingPoints": 628,
+    "predictedFinalPoints": 552,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 92,
+      "long": 0,
+      "grand": 92
+    },
+    "tags": [],
+    "currentPosition": 204,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 201,
+        "id": "30929",
+        "pointsDirection": 0,
+        "name": "Raymond Haldane",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 93,
+        "predictedFinalPoints": 558,
+        "grandTotal": 93,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 202,
+        "id": "8379",
+        "pointsDirection": 0,
+        "name": "Martin Heardman",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 92,
+        "predictedFinalPoints": 552,
+        "grandTotal": 92,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 203,
+        "id": "16746",
+        "pointsDirection": 0,
+        "name": "Steven Mulvey",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 92,
+        "predictedFinalPoints": 552,
+        "grandTotal": 92,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 204,
+        "id": "25803",
+        "pointsDirection": 0,
+        "name": "Paul Findlay",
+        "club": "GS Metro",
+        "averagePointsPerRace": 92,
+        "predictedFinalPoints": 552,
+        "grandTotal": 92,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 205,
+        "id": "30663",
+        "pointsDirection": 0,
+        "name": "Craig Usher",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 91,
+        "predictedFinalPoints": 546,
+        "grandTotal": 91,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 206,
+        "id": "30081",
+        "pointsDirection": 0,
+        "name": "Reece Black",
+        "club": "Wearside Triathlon",
+        "averagePointsPerRace": 89,
+        "predictedFinalPoints": 534,
+        "grandTotal": 89,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 207,
+        "id": "19604",
+        "pointsDirection": 0,
+        "name": "Anthony Horsley",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 89,
+        "predictedFinalPoints": 534,
+        "grandTotal": 89,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18260",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 11,
+        "date": "27 July 2019",
+        "club": "GS Metro",
+        "position": "33",
+        "time": "1:18:04",
+        "standard": "01:11:54",
+        "onStandard": "00:06:10",
+        "speed": "19.98 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 106,
+        "vbarPosition": 15,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 106,
+    "averagePointsPerMediumRace": 106,
+    "averagePointsPerLongRace": 106,
+    "averagePointsPerRace": 106,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 134,
+    "remainingLongPoints": 120,
+    "remainingPoints": 614,
+    "predictedFinalPoints": 636,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 106,
+      "long": 0,
+      "grand": 106
+    },
+    "tags": [],
+    "currentPosition": 126,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 123,
+        "id": "2311",
+        "pointsDirection": 0,
+        "name": "Paul Rider",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 106
+      },
+      {
+        "position": 124,
+        "id": "15551",
+        "pointsDirection": 0,
+        "name": "Robert Munro",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 106
+      },
+      {
+        "position": 125,
+        "id": "1770",
+        "pointsDirection": 0,
+        "name": "Brian Johnson",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 106,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 126,
+        "id": "25803",
+        "pointsDirection": 0,
+        "name": "Paul Findlay",
+        "club": "GS Metro",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 127,
+        "id": "1884",
+        "pointsDirection": 0,
+        "name": "Don Speight",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 105,
+        "tieBreakPoints": 105
+      },
+      {
+        "position": 128,
+        "id": "19604",
+        "pointsDirection": 0,
+        "name": "Anthony Horsley",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 129,
+        "id": "26817",
+        "pointsDirection": 0,
+        "name": "Stan Allan",
+        "club": "GS Metro",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18260",
+      "raceCategory": "medium",
+      "name": "GS Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 11,
+      "date": "27 July 2019",
+      "club": "GS Metro",
+      "position": "33",
+      "time": "1:18:04",
+      "standard": "01:11:54",
+      "onStandard": "00:06:10",
+      "speed": "19.98 Mph",
+      "bar": 92,
+      "barPosition": 29,
+      "vbar": 106,
+      "vbarPosition": 15,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 92,
+        "long": 0,
+        "grand": 92
+      },
+      "position": 199
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 92,
+        "long": 0,
+        "grand": 92
+      },
+      "position": 201
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 92,
+        "long": 0,
+        "grand": 92
+      },
+      "position": 202
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 92,
+        "long": 0,
+        "grand": 92
+      },
+      "position": 204
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 92,
+        "long": 0,
+        "grand": 92
+      },
+      "position": 204
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 106,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 124
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 106,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 124
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 106,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 124
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 106,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 126
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 106,
+        "long": 0,
+        "grand": 106
+      },
+      "position": 126
+    }
+  ]
+}

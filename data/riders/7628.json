@@ -1,0 +1,423 @@
+{
+  "id": "7628",
+  "name": "Matthew Wells",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Tyneside Vagabonds CC",
+  "inBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "Tyneside Vagabonds CC",
+        "position": "18",
+        "time": "2:11:39",
+        "standard": "",
+        "onStandard": "",
+        "speed": "21.42 Mph",
+        "bar": 106,
+        "barPosition": 15,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 106,
+    "averagePointsPerMediumRace": 106,
+    "averagePointsPerLongRace": 106,
+    "averagePointsPerRace": 106,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 14,
+    "remainingPoints": 614,
+    "predictedFinalPoints": 636,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 106,
+      "grand": 106
+    },
+    "tags": [],
+    "currentPosition": 187,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 184,
+        "id": "4590",
+        "pointsDirection": 0,
+        "name": "Lee Ager",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 107,
+        "predictedFinalPoints": 642,
+        "grandTotal": 107,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 107
+      },
+      {
+        "position": 185,
+        "id": "26754",
+        "pointsDirection": 0,
+        "name": "Simon Douglas",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 107,
+        "predictedFinalPoints": 642,
+        "grandTotal": 107,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 186,
+        "id": "1818",
+        "pointsDirection": 0,
+        "name": "Kris Whitelaw",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 106,
+        "tieBreakPoints": 106
+      },
+      {
+        "position": 187,
+        "id": "7628",
+        "pointsDirection": 0,
+        "name": "Matthew Wells",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 188,
+        "id": "12696",
+        "pointsDirection": 0,
+        "name": "Darren Mcbain",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 189,
+        "id": "6444",
+        "pointsDirection": 0,
+        "name": "Mark Tully",
+        "club": "Sunderland Clarion",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 190,
+        "id": "8877",
+        "pointsDirection": 0,
+        "name": "Stuart Britton",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18245",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 13,
+      "date": "19 May 2019",
+      "club": "Tyneside Vagabonds CC",
+      "position": "18",
+      "time": "2:11:39",
+      "standard": "",
+      "onStandard": "",
+      "speed": "21.42 Mph",
+      "bar": 106,
+      "barPosition": 15,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 133
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 139
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 146
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 154
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 163
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 164
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 167
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 171
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 174
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 176
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 177
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 178
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 181
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 183
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 184
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 187
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 106,
+        "grand": 106
+      },
+      "position": 187
+    }
+  ]
+}

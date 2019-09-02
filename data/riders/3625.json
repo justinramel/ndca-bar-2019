@@ -1,0 +1,682 @@
+{
+  "id": "3625",
+  "name": "Adam Wild",
+  "sex": "Male",
+  "category": "Espoir",
+  "club": "GS Metro",
+  "inBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18264",
+        "raceCategory": "short",
+        "name": "Barnesbury CC (Cheques To S Dodd)",
+        "course": "M102C",
+        "distance": 10,
+        "fee": 10,
+        "date": "18 August 2019",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:19:09",
+        "standard": "",
+        "onStandard": "",
+        "speed": "31.33 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18252",
+        "raceCategory": "medium",
+        "name": "Houghton CC (BBAR)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 11,
+        "date": "23 June 2019",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:50:50",
+        "standard": "",
+        "onStandard": "",
+        "speed": "29.51 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18258",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC (Inc. N&DCA 25 Championship)(Cheques To S Dyson) (BBAR)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 11,
+        "date": "22 July 2019",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:48:40",
+        "standard": "",
+        "onStandard": "",
+        "speed": "30.82 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "1:49:30",
+        "standard": "",
+        "onStandard": "",
+        "speed": "25.75 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 120,
+    "averagePointsPerLongRace": 120,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 240,
+    "predictedFinalPoints": 720,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 240
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 120,
+      "medium": 240,
+      "long": 120,
+      "grand": 480
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "5 x 1st BAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "5 x Top 5 BAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "5 x Top 10 BAR"
+      },
+      {
+        "cssclass": "tag is-dark",
+        "text": "1 x DNF"
+      }
+    ],
+    "currentPosition": 73,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 70,
+        "id": "508",
+        "pointsDirection": 0,
+        "name": "Terry Fountain",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 105.8,
+        "predictedFinalPoints": 636,
+        "grandTotal": 529,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 103
+      },
+      {
+        "position": 71,
+        "id": "26200",
+        "pointsDirection": 0,
+        "name": "Michael Charlton",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 96.6,
+        "predictedFinalPoints": 582.5,
+        "grandTotal": 483,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 282,
+        "tieBreakPoints": 89
+      },
+      {
+        "position": 72,
+        "id": "1711",
+        "pointsDirection": 0,
+        "name": "Tom Guy",
+        "club": "Sunderland Clarion",
+        "averagePointsPerRace": 96.4,
+        "predictedFinalPoints": 569,
+        "grandTotal": 482,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 83,
+        "tieBreakPoints": 111
+      },
+      {
+        "position": 73,
+        "id": "3625",
+        "pointsDirection": 0,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 480,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 74,
+        "id": "1347",
+        "pointsDirection": 0,
+        "name": "Lee Ridden",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 93.8,
+        "predictedFinalPoints": 555.5,
+        "grandTotal": 469,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 211
+      },
+      {
+        "position": 75,
+        "id": "18842",
+        "pointsDirection": -2,
+        "name": "Martin Rasmussen",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 93.6,
+        "predictedFinalPoints": 553,
+        "grandTotal": 468,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 268,
+        "tieBreakPoints": 160
+      },
+      {
+        "position": 76,
+        "id": "1698",
+        "pointsDirection": 1,
+        "name": "Daniel Dixon",
+        "club": "Revolver Racing",
+        "averagePointsPerRace": 116.5,
+        "predictedFinalPoints": 700,
+        "grandTotal": 466,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 116,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18243",
+      "raceCategory": "long",
+      "name": "Derwentside CC (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 11,
+      "date": "05 May 2019",
+      "club": "GS Metro",
+      "position": "DNF",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18245",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 13,
+      "date": "19 May 2019",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "1:49:30",
+      "standard": "",
+      "onStandard": "",
+      "speed": "25.75 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18252",
+      "raceCategory": "medium",
+      "name": "Houghton CC (BBAR)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 11,
+      "date": "23 June 2019",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:50:50",
+      "standard": "",
+      "onStandard": "",
+      "speed": "29.51 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18258",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC (Inc. N&DCA 25 Championship)(Cheques To S Dyson) (BBAR)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 11,
+      "date": "22 July 2019",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:48:40",
+      "standard": "",
+      "onStandard": "",
+      "speed": "30.82 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18264",
+      "raceCategory": "short",
+      "name": "Barnesbury CC (Cheques To S Dodd)",
+      "course": "M102C",
+      "distance": 10,
+      "fee": 10,
+      "date": "18 August 2019",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:19:09",
+      "standard": "",
+      "onStandard": "",
+      "speed": "31.33 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18266",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (N & DCA 100 Mile Championship) (BBAR)",
+      "course": "M100/10",
+      "distance": 100,
+      "fee": 11,
+      "date": "01 September 2019",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "3:34:25",
+      "standard": "",
+      "onStandard": "",
+      "speed": "27.98 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 181
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 193
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 120,
+        "grand": 120
+      },
+      "position": 116
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 120,
+        "grand": 120
+      },
+      "position": 122
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 120,
+        "grand": 120
+      },
+      "position": 131
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 120,
+        "grand": 120
+      },
+      "position": 138
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 120,
+        "grand": 120
+      },
+      "position": 145
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 120,
+        "grand": 120
+      },
+      "position": 146
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 120,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 96
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 120,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 103
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 120,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 105
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 120,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 111
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 120,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 114
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 240,
+        "long": 120,
+        "grand": 360
+      },
+      "position": 85
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 240,
+        "long": 120,
+        "grand": 360
+      },
+      "position": 85
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 240,
+        "long": 120,
+        "grand": 360
+      },
+      "position": 88
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 120,
+        "medium": 240,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 70
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 120,
+        "medium": 240,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 73
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 120,
+        "medium": 240,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 73
+    }
+  ]
+}

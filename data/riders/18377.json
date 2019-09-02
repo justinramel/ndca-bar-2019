@@ -1,0 +1,1454 @@
+{
+  "id": "18377",
+  "name": "Sean Bell",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "South Shields Velo Cycling Club",
+  "inBAR": true,
+  "inVBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18244",
+        "raceCategory": "short",
+        "name": "Tyne & Wear Fire Service CC",
+        "course": "M12",
+        "distance": 12,
+        "fee": 11,
+        "date": "11 May 2019",
+        "club": "South Shields Velo Cycling Club",
+        "position": "57",
+        "time": "0:35:15",
+        "standard": "00:32:09",
+        "onStandard": "00:03:06",
+        "speed": "20.43 Mph",
+        "bar": 74,
+        "barPosition": 47,
+        "vbar": 90,
+        "vbarPosition": 31,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 113,
+        "rbarPosition": 8,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18241",
+        "raceCategory": "short",
+        "name": "South Shields Velo",
+        "course": "M101",
+        "distance": 10,
+        "fee": 11,
+        "date": "20 April 2019",
+        "club": "South Shields Velo Cycling Club",
+        "position": "90",
+        "time": "0:25:44",
+        "standard": "00:26:45",
+        "onStandard": "-00:01:01",
+        "speed": "23.32 Mph",
+        "bar": 52,
+        "barPosition": 69,
+        "vbar": 70,
+        "vbarPosition": 51,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 63,
+    "averagePointsPerMediumRace": 63,
+    "averagePointsPerLongRace": 63,
+    "averagePointsPerRace": 63,
+    "remainingShortPoints": 234,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 594,
+    "predictedFinalPoints": 378,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 52
+    },
+    "totals": {
+      "short": 126,
+      "medium": 0,
+      "long": 0,
+      "grand": 126
+    },
+    "tags": [],
+    "currentPosition": 169,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 166,
+        "id": "29555",
+        "pointsDirection": 0,
+        "name": "Steve Cunningham",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 64.5,
+        "predictedFinalPoints": 387,
+        "grandTotal": 129,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 167,
+        "id": "113",
+        "pointsDirection": 0,
+        "name": "Sara Cummings",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 63.5,
+        "predictedFinalPoints": 381,
+        "grandTotal": 127,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 59
+      },
+      {
+        "position": 168,
+        "id": "5655",
+        "pointsDirection": 0,
+        "name": "Phil Dunn",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 63.5,
+        "predictedFinalPoints": 376.5,
+        "grandTotal": 127,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 169,
+        "id": "18377",
+        "pointsDirection": 0,
+        "name": "Sean Bell",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 63,
+        "predictedFinalPoints": 378,
+        "grandTotal": 126,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 52
+      },
+      {
+        "position": 170,
+        "id": "25144",
+        "pointsDirection": 0,
+        "name": "Laura Warburton",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 61,
+        "predictedFinalPoints": 366,
+        "grandTotal": 122,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 171,
+        "id": "29293",
+        "pointsDirection": 0,
+        "name": "John Beecroft",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 60.5,
+        "predictedFinalPoints": 358.5,
+        "grandTotal": 121,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 172,
+        "id": "16809",
+        "pointsDirection": 0,
+        "name": "Collin Humphrey",
+        "club": "Team Kirkley Cycles",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 119,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 119,
+        "tieBreakPoints": 119
+      }
+    ]
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18244",
+        "raceCategory": "short",
+        "name": "Tyne & Wear Fire Service CC",
+        "course": "M12",
+        "distance": 12,
+        "fee": 11,
+        "date": "11 May 2019",
+        "club": "South Shields Velo Cycling Club",
+        "position": "57",
+        "time": "0:35:15",
+        "standard": "00:32:09",
+        "onStandard": "00:03:06",
+        "speed": "20.43 Mph",
+        "bar": 74,
+        "barPosition": 47,
+        "vbar": 90,
+        "vbarPosition": 31,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 113,
+        "rbarPosition": 8,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18241",
+        "raceCategory": "short",
+        "name": "South Shields Velo",
+        "course": "M101",
+        "distance": 10,
+        "fee": 11,
+        "date": "20 April 2019",
+        "club": "South Shields Velo Cycling Club",
+        "position": "90",
+        "time": "0:25:44",
+        "standard": "00:26:45",
+        "onStandard": "-00:01:01",
+        "speed": "23.32 Mph",
+        "bar": 52,
+        "barPosition": 69,
+        "vbar": 70,
+        "vbarPosition": 51,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 80,
+    "averagePointsPerMediumRace": 80,
+    "averagePointsPerLongRace": 80,
+    "averagePointsPerRace": 80,
+    "remainingShortPoints": 200,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 560,
+    "predictedFinalPoints": 480,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 70
+    },
+    "totals": {
+      "short": 160,
+      "medium": 0,
+      "long": 0,
+      "grand": 160
+    },
+    "tags": [],
+    "currentPosition": 110,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 107,
+        "id": "5494",
+        "pointsDirection": 0,
+        "name": "Stephen Kerr",
+        "club": "Sunderland Clarion",
+        "averagePointsPerRace": 86,
+        "predictedFinalPoints": 516,
+        "grandTotal": 172,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 108,
+        "id": "5655",
+        "pointsDirection": 0,
+        "name": "Phil Dunn",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 508,
+        "grandTotal": 170,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 109,
+        "id": "29293",
+        "pointsDirection": 0,
+        "name": "John Beecroft",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 82.5,
+        "predictedFinalPoints": 493.5,
+        "grandTotal": 165,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 110,
+        "id": "18377",
+        "pointsDirection": 0,
+        "name": "Sean Bell",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 80,
+        "predictedFinalPoints": 480,
+        "grandTotal": 160,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 70
+      },
+      {
+        "position": 111,
+        "id": "16809",
+        "pointsDirection": 0,
+        "name": "Collin Humphrey",
+        "club": "Team Kirkley Cycles",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 120,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 119,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 112,
+        "id": "1117",
+        "pointsDirection": 0,
+        "name": "Mark Flannery",
+        "club": "Team Swift",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 113,
+        "id": "866",
+        "pointsDirection": 0,
+        "name": "Colin Atkinson",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "rbar": {
+    "short": [
+      {
+        "eventId": "18244",
+        "raceCategory": "short",
+        "name": "Tyne & Wear Fire Service CC",
+        "course": "M12",
+        "distance": 12,
+        "fee": 11,
+        "date": "11 May 2019",
+        "club": "South Shields Velo Cycling Club",
+        "position": "57",
+        "time": "0:35:15",
+        "standard": "00:32:09",
+        "onStandard": "00:03:06",
+        "speed": "20.43 Mph",
+        "bar": 74,
+        "barPosition": 47,
+        "vbar": 90,
+        "vbarPosition": 31,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 113,
+        "rbarPosition": 8,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      },
+      {
+        "eventId": "18241",
+        "raceCategory": "short",
+        "name": "South Shields Velo",
+        "course": "M101",
+        "distance": 10,
+        "fee": 11,
+        "date": "20 April 2019",
+        "club": "South Shields Velo Cycling Club",
+        "position": "90",
+        "time": "0:25:44",
+        "standard": "00:26:45",
+        "onStandard": "-00:01:01",
+        "speed": "23.32 Mph",
+        "bar": 52,
+        "barPosition": 69,
+        "vbar": 70,
+        "vbarPosition": 51,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 112.5,
+    "averagePointsPerMediumRace": 112.5,
+    "averagePointsPerLongRace": 112.5,
+    "averagePointsPerRace": 112.5,
+    "remainingShortPoints": 135,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 495,
+    "predictedFinalPoints": 675,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 112
+    },
+    "totals": {
+      "short": 225,
+      "medium": 0,
+      "long": 0,
+      "grand": 225
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x Top 10 RBAR"
+      }
+    ],
+    "currentPosition": 40,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "1207",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Jonathan Bayley",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 239,
+        "tieBreakPoints": 358
+      },
+      {
+        "position": 37,
+        "id": "2999",
+        "pointsDirection": 1,
+        "name": "Philip Green",
+        "club": "GS Metro",
+        "averagePointsPerRace": 114,
+        "predictedFinalPoints": 684,
+        "grandTotal": 228,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 38,
+        "id": "19057",
+        "pointsDirection": 1,
+        "name": "Nicola Mccoy",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 113.5,
+        "predictedFinalPoints": 681,
+        "grandTotal": 227,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 112
+      },
+      {
+        "position": 39,
+        "id": "22523",
+        "pointsDirection": 1,
+        "name": "Chris Judson",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 113.5,
+        "predictedFinalPoints": 681,
+        "grandTotal": 227,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 40,
+        "id": "18377",
+        "pointsDirection": 1,
+        "name": "Sean Bell",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 112.5,
+        "predictedFinalPoints": 675,
+        "grandTotal": 225,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 112
+      },
+      {
+        "position": 41,
+        "id": "23827",
+        "pointsDirection": 1,
+        "name": "Bryan Ross",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 112,
+        "predictedFinalPoints": 672,
+        "grandTotal": 224,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 116
+      },
+      {
+        "position": 42,
+        "id": "8836",
+        "pointsDirection": 1,
+        "name": "Daniel Holmes",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 111.5,
+        "predictedFinalPoints": 672.5,
+        "grandTotal": 223,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 108
+      },
+      {
+        "position": 43,
+        "id": "30099",
+        "pointsDirection": 1,
+        "name": "Keith Taylor",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 111,
+        "predictedFinalPoints": 667,
+        "grandTotal": 222,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 110
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18241",
+      "raceCategory": "short",
+      "name": "South Shields Velo",
+      "course": "M101",
+      "distance": 10,
+      "fee": 11,
+      "date": "20 April 2019",
+      "club": "South Shields Velo Cycling Club",
+      "position": "90",
+      "time": "0:25:44",
+      "standard": "00:26:45",
+      "onStandard": "-00:01:01",
+      "speed": "23.32 Mph",
+      "bar": 52,
+      "barPosition": 69,
+      "vbar": 70,
+      "vbarPosition": 51,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 112,
+      "rbarPosition": 9,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18244",
+      "raceCategory": "short",
+      "name": "Tyne & Wear Fire Service CC",
+      "course": "M12",
+      "distance": 12,
+      "fee": 11,
+      "date": "11 May 2019",
+      "club": "South Shields Velo Cycling Club",
+      "position": "57",
+      "time": "0:35:15",
+      "standard": "00:32:09",
+      "onStandard": "00:03:06",
+      "speed": "20.43 Mph",
+      "bar": 74,
+      "barPosition": 47,
+      "vbar": 90,
+      "vbarPosition": 31,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 113,
+      "rbarPosition": 8,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 52,
+        "medium": 0,
+        "long": 0,
+        "grand": 52
+      },
+      "position": 132
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 52,
+        "medium": 0,
+        "long": 0,
+        "grand": 52
+      },
+      "position": 147
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 52,
+        "medium": 0,
+        "long": 0,
+        "grand": 52
+      },
+      "position": 169
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 101
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 110
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 117
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 126
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 133
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 139
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 141
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 147
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 152
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 154
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 157
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 160
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 163
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 163
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 164
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 165
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 169
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 126,
+        "medium": 0,
+        "long": 0,
+        "grand": 126
+      },
+      "position": 169
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 90
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 98
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 109
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 65
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 74
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 77
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 83
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 87
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 93
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 94
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 98
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 100
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 101
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 103
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 104
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 107
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 107
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 107
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 107
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 110
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 160,
+        "medium": 0,
+        "long": 0,
+        "grand": 160
+      },
+      "position": 110
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 28
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 32
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 39
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 15
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 19
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 20
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 22
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 25
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 28
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 29
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 29
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 35
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 39
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 225,
+        "medium": 0,
+        "long": 0,
+        "grand": 225
+      },
+      "position": 40
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "154",
+  "name": "Richard Sharp",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Team Swift",
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 300,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 297,
+        "id": "3732",
+        "pointsDirection": 0,
+        "name": "Mike Cole",
+        "club": "Cleveland Wheelers CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 298,
+        "id": "9312",
+        "pointsDirection": 0,
+        "name": "Anthony Prince",
+        "club": "Ponteland Tri",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 299,
+        "id": "16523",
+        "pointsDirection": 0,
+        "name": "Marcus Cram",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 300,
+        "id": "154",
+        "pointsDirection": 0,
+        "name": "Richard Sharp",
+        "club": "Team Swift",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 301,
+        "id": "15387",
+        "pointsDirection": 0,
+        "name": "Sue Mcfarlane",
+        "club": "Army Cycling",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 302,
+        "id": "22833",
+        "pointsDirection": 0,
+        "name": "Mark Elliott",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 303,
+        "id": "8668",
+        "pointsDirection": 0,
+        "name": "Liam Beaty",
+        "club": "Hawick Cycling Club",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18238",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC - Hilly 21",
+      "course": "M21",
+      "distance": 21,
+      "fee": 10,
+      "date": "30 March 2019",
+      "club": "Team Swift",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ]
+}

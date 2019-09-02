@@ -1,0 +1,1455 @@
+{
+  "id": "17551",
+  "name": "Michael Aspey",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Reifen Racing",
+  "inBAR": true,
+  "inVBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18238",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC - Hilly 21",
+        "course": "M21",
+        "distance": 21,
+        "fee": 10,
+        "date": "30 March 2019",
+        "club": "Reifen Racing",
+        "position": "70",
+        "time": "0:58:41",
+        "standard": "00:57:16",
+        "onStandard": "00:01:25",
+        "speed": "21.47 Mph",
+        "bar": 75,
+        "barPosition": 46,
+        "vbar": 98,
+        "vbarPosition": 23,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 104,
+        "rbarPosition": 17,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 75,
+    "averagePointsPerMediumRace": 75,
+    "averagePointsPerLongRace": 75,
+    "averagePointsPerRace": 75,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 165,
+    "remainingLongPoints": 120,
+    "remainingPoints": 645,
+    "predictedFinalPoints": 450,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 75,
+      "long": 0,
+      "grand": 75
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 228,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 225,
+        "id": "24659",
+        "pointsDirection": 0,
+        "name": "Chip Ponsford",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 78,
+        "predictedFinalPoints": 468,
+        "grandTotal": 78,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 226,
+        "id": "5262",
+        "pointsDirection": 0,
+        "name": "Derek Billham",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 76,
+        "predictedFinalPoints": 456,
+        "grandTotal": 76,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 227,
+        "id": "1782",
+        "pointsDirection": 0,
+        "name": "Stephen Roberts",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 76,
+        "predictedFinalPoints": 456,
+        "grandTotal": 76,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 228,
+        "id": "17551",
+        "pointsDirection": 0,
+        "name": "Michael Aspey",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 75,
+        "predictedFinalPoints": 450,
+        "grandTotal": 75,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 229,
+        "id": "16429",
+        "pointsDirection": 0,
+        "name": "Simon Bussey",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 75,
+        "predictedFinalPoints": 450,
+        "grandTotal": 75,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 230,
+        "id": "29569",
+        "pointsDirection": 0,
+        "name": "Karen Wood",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 75,
+        "predictedFinalPoints": 450,
+        "grandTotal": 75,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 231,
+        "id": "16197",
+        "pointsDirection": 0,
+        "name": "Christopher Thompson",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 75,
+        "predictedFinalPoints": 450,
+        "grandTotal": 75,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18238",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC - Hilly 21",
+        "course": "M21",
+        "distance": 21,
+        "fee": 10,
+        "date": "30 March 2019",
+        "club": "Reifen Racing",
+        "position": "70",
+        "time": "0:58:41",
+        "standard": "00:57:16",
+        "onStandard": "00:01:25",
+        "speed": "21.47 Mph",
+        "bar": 75,
+        "barPosition": 46,
+        "vbar": 98,
+        "vbarPosition": 23,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 104,
+        "rbarPosition": 17,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 98,
+    "averagePointsPerMediumRace": 98,
+    "averagePointsPerLongRace": 98,
+    "averagePointsPerRace": 98,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 142,
+    "remainingLongPoints": 120,
+    "remainingPoints": 622,
+    "predictedFinalPoints": 588,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 98,
+      "long": 0,
+      "grand": 98
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 141,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 138,
+        "id": "16436",
+        "pointsDirection": 0,
+        "name": "Lisa Williams",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 100,
+        "predictedFinalPoints": 600,
+        "grandTotal": 100,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 139,
+        "id": "4720",
+        "pointsDirection": 0,
+        "name": "I Maddison",
+        "club": "Ryton Tri Club",
+        "averagePointsPerRace": 99,
+        "predictedFinalPoints": 594,
+        "grandTotal": 99,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 99
+      },
+      {
+        "position": 140,
+        "id": "6464",
+        "pointsDirection": 0,
+        "name": "Melanie Annable",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 99,
+        "predictedFinalPoints": 594,
+        "grandTotal": 99,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 141,
+        "id": "17551",
+        "pointsDirection": 0,
+        "name": "Michael Aspey",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 98,
+        "predictedFinalPoints": 588,
+        "grandTotal": 98,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 142,
+        "id": "7543",
+        "pointsDirection": 0,
+        "name": "Paul Hollick",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 98,
+        "predictedFinalPoints": 588,
+        "grandTotal": 98,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 143,
+        "id": "324",
+        "pointsDirection": 0,
+        "name": "Stuart Cook",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 97,
+        "predictedFinalPoints": 582,
+        "grandTotal": 97,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 144,
+        "id": "1890",
+        "pointsDirection": 0,
+        "name": "Christian Roberts",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 97,
+        "predictedFinalPoints": 582,
+        "grandTotal": 97,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 97,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "rbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "18238",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC - Hilly 21",
+        "course": "M21",
+        "distance": 21,
+        "fee": 10,
+        "date": "30 March 2019",
+        "club": "Reifen Racing",
+        "position": "70",
+        "time": "0:58:41",
+        "standard": "00:57:16",
+        "onStandard": "00:01:25",
+        "speed": "21.47 Mph",
+        "bar": 75,
+        "barPosition": 46,
+        "vbar": 98,
+        "vbarPosition": 23,
+        "wvbar": 0,
+        "wvbarPosition": 0,
+        "wbar": 0,
+        "wbarPosition": 0,
+        "rbar": 104,
+        "rbarPosition": 17,
+        "wrbar": 0,
+        "wrbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 104,
+    "averagePointsPerMediumRace": 104,
+    "averagePointsPerLongRace": 104,
+    "averagePointsPerRace": 104,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 136,
+    "remainingLongPoints": 120,
+    "remainingPoints": 616,
+    "predictedFinalPoints": 624,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 104,
+      "long": 0,
+      "grand": 104
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 108,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "1207",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Jonathan Bayley",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 239,
+        "tieBreakPoints": 358
+      },
+      {
+        "position": 105,
+        "id": "15799",
+        "pointsDirection": 1,
+        "name": "Mark Ambury",
+        "club": "Zeus CRT",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 106,
+        "id": "16197",
+        "pointsDirection": 1,
+        "name": "Christopher Thompson",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 107,
+        "id": "30663",
+        "pointsDirection": 1,
+        "name": "Craig Usher",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 108,
+        "id": "17551",
+        "pointsDirection": 1,
+        "name": "Michael Aspey",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 109,
+        "id": "7255",
+        "pointsDirection": 1,
+        "name": "Sandy Cheung",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 110,
+        "id": "30708",
+        "pointsDirection": 1,
+        "name": "Gavin Quiney",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 111,
+        "id": "7743",
+        "pointsDirection": 1,
+        "name": "Stephen Mcintosh",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 103,
+        "predictedFinalPoints": 618,
+        "grandTotal": 103,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18238",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC - Hilly 21",
+      "course": "M21",
+      "distance": 21,
+      "fee": 10,
+      "date": "30 March 2019",
+      "club": "Reifen Racing",
+      "position": "70",
+      "time": "0:58:41",
+      "standard": "00:57:16",
+      "onStandard": "00:01:25",
+      "speed": "21.47 Mph",
+      "bar": 75,
+      "barPosition": 46,
+      "vbar": 98,
+      "vbarPosition": 23,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 104,
+      "rbarPosition": 17,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    },
+    {
+      "eventId": "18255",
+      "raceCategory": "medium",
+      "name": "Gosforth Road Club (BBAR)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 11,
+      "date": "26 May 2019",
+      "club": "Reifen Racing",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "wvbar": 0,
+      "wvbarPosition": 0,
+      "wbar": 0,
+      "wbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0,
+      "wrbar": 0,
+      "wrbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18238",
+      "date": "30 March 2019",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 46
+    },
+    {
+      "eventId": "18240",
+      "date": "13 April 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 78
+    },
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 98
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 116
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 136
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 146
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 158
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 167
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 174
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 187
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 196
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 198
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 201
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 204
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 209
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 209
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 212
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 213
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 222
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 227
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 228
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 228
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 75,
+        "long": 0,
+        "grand": 75
+      },
+      "position": 228
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18238",
+      "date": "30 March 2019",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 23
+    },
+    {
+      "eventId": "18240",
+      "date": "13 April 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 40
+    },
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 65
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 76
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 84
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 93
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 99
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 106
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 114
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 120
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 122
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 124
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 126
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 128
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 129
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 131
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 132
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 138
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 141
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 141
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 141
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 141
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "18238",
+      "date": "30 March 2019",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 17
+    },
+    {
+      "eventId": "18240",
+      "date": "13 April 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 31
+    },
+    {
+      "eventId": "18241",
+      "date": "20 April 2019",
+      "name": "M101",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 40
+    },
+    {
+      "eventId": "18242",
+      "date": "28 April 2019",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 43
+    },
+    {
+      "eventId": "18243",
+      "date": "05 May 2019",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 55
+    },
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 59
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 67
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 69
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 73
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 81
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 83
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 85
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 85
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 88
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 93
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 93
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 97
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 97
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 104
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 106
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 106
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 107
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 104,
+        "long": 0,
+        "grand": 104
+      },
+      "position": 108
+    }
+  ]
+}

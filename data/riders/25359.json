@@ -1,0 +1,3540 @@
+{
+  "id": "25359",
+  "name": "Sarah Wilkinson",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Blaydon CC",
+  "inBAR": true,
+  "inVBAR": true,
+  "inWBAR": true,
+  "inWVBAR": true,
+  "inRBAR": true,
+  "inWRBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "18251",
+        "raceCategory": "short",
+        "name": "Cestria Cycling Club",
+        "course": "M9",
+        "distance": 9,
+        "fee": 11,
+        "date": "22 June 2019",
+        "club": "Blaydon CC",
+        "position": "23",
+        "time": "0:24:08",
+        "standard": "00:26:06",
+        "onStandard": "-00:01:58",
+        "speed": "22.38 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 117,
+        "rbarPosition": 4,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18257",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 11,
+        "date": "14 July 2019",
+        "club": "Blaydon CC",
+        "position": "24",
+        "time": "0:42:15",
+        "standard": "00:40:48",
+        "onStandard": "00:01:27",
+        "speed": "19.88 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 111,
+        "rbarPosition": 10,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18253",
+        "raceCategory": "short",
+        "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 11,
+        "date": "29 June 2019",
+        "club": "Blaydon CC",
+        "position": "32",
+        "time": "0:27:34",
+        "standard": "00:28:44",
+        "onStandard": "-00:01:10",
+        "speed": "21.55 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18246",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 11,
+        "date": "07 July 2019",
+        "club": "Blaydon CC",
+        "position": "17",
+        "time": "1:23:47",
+        "standard": "01:19:41",
+        "onStandard": "00:04:06",
+        "speed": "19.34 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18248",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 10,
+        "date": "09 June 2019",
+        "club": "Blaydon CC",
+        "position": "31",
+        "time": "1:25:19",
+        "standard": "01:13:02",
+        "onStandard": "00:12:17",
+        "speed": "17.44 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 118,
+        "vbarPosition": 3,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 106,
+        "rbarPosition": 15,
+        "wrbar": 118,
+        "wrbarPosition": 3
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "Blaydon CC",
+        "position": "57",
+        "time": "2:28:47",
+        "standard": "02:21:26",
+        "onStandard": "00:07:21",
+        "speed": "18.95 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "vbarPosition": 14,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 108,
+        "rbarPosition": 13,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "shortCount": 3,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 96.66666666666667,
+    "averagePointsPerMediumRace": 101,
+    "averagePointsPerLongRace": 80,
+    "averagePointsPerRace": 95.33333333333333,
+    "remainingShortPoints": 70,
+    "remainingMediumPoints": 38,
+    "remainingLongPoints": 40,
+    "remainingPoints": 148,
+    "predictedFinalPoints": 572,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 90
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 107
+    },
+    "totals": {
+      "short": 290,
+      "medium": 202,
+      "long": 80,
+      "grand": 572
+    },
+    "tags": [],
+    "currentPosition": 43,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Lewis Timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 345,
+        "tieBreakPoints": 227
+      },
+      {
+        "position": 40,
+        "id": "6666",
+        "pointsDirection": -4,
+        "barPredictedFinalPosition": 40,
+        "name": "David Swainson",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 97,
+        "predictedFinalPoints": 582,
+        "grandTotal": 582,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 272,
+        "tieBreakPoints": 165
+      },
+      {
+        "position": 41,
+        "id": "16225",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 41,
+        "name": "Ian Simon",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 95.66666666666667,
+        "predictedFinalPoints": 574,
+        "grandTotal": 574,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 182,
+        "tieBreakPoints": 97
+      },
+      {
+        "position": 42,
+        "id": "23093",
+        "pointsDirection": -1,
+        "barPredictedFinalPosition": 42,
+        "name": "Adam Harrison",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 95.33333333333333,
+        "predictedFinalPoints": 572,
+        "grandTotal": 572,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 291,
+        "tieBreakPoints": 175
+      },
+      {
+        "position": 43,
+        "id": "25359",
+        "pointsDirection": 3,
+        "barPredictedFinalPosition": 43,
+        "name": "Sarah Wilkinson",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 95.33333333333333,
+        "predictedFinalPoints": 572,
+        "grandTotal": 572,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 90,
+        "tieBreakPoints": 107
+      },
+      {
+        "position": 44,
+        "id": "23195",
+        "pointsDirection": 3,
+        "barPredictedFinalPosition": 44,
+        "name": "Lee Mccarron",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 94.83333333333333,
+        "predictedFinalPoints": 569,
+        "grandTotal": 569,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 78,
+        "tieBreakPoints": 159
+      },
+      {
+        "position": 45,
+        "id": "5296",
+        "pointsDirection": -2,
+        "barPredictedFinalPosition": 45,
+        "name": "Keith Sibbald",
+        "club": "Zeus CRT",
+        "averagePointsPerRace": 92.83333333333333,
+        "predictedFinalPoints": 557,
+        "grandTotal": 557,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 255,
+        "tieBreakPoints": 150
+      },
+      {
+        "position": 46,
+        "id": "7758",
+        "pointsDirection": 1,
+        "barPredictedFinalPosition": 46,
+        "name": "Craig Bell",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 92.33333333333333,
+        "predictedFinalPoints": 554,
+        "grandTotal": 554,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 159
+      }
+    ]
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "18253",
+        "raceCategory": "short",
+        "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 11,
+        "date": "29 June 2019",
+        "club": "Blaydon CC",
+        "position": "32",
+        "time": "0:27:34",
+        "standard": "00:28:44",
+        "onStandard": "-00:01:10",
+        "speed": "21.55 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18251",
+        "raceCategory": "short",
+        "name": "Cestria Cycling Club",
+        "course": "M9",
+        "distance": 9,
+        "fee": 11,
+        "date": "22 June 2019",
+        "club": "Blaydon CC",
+        "position": "23",
+        "time": "0:24:08",
+        "standard": "00:26:06",
+        "onStandard": "-00:01:58",
+        "speed": "22.38 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 117,
+        "rbarPosition": 4,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18257",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 11,
+        "date": "14 July 2019",
+        "club": "Blaydon CC",
+        "position": "24",
+        "time": "0:42:15",
+        "standard": "00:40:48",
+        "onStandard": "00:01:27",
+        "speed": "19.88 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 111,
+        "rbarPosition": 10,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18248",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 10,
+        "date": "09 June 2019",
+        "club": "Blaydon CC",
+        "position": "31",
+        "time": "1:25:19",
+        "standard": "01:13:02",
+        "onStandard": "00:12:17",
+        "speed": "17.44 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 118,
+        "vbarPosition": 3,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 106,
+        "rbarPosition": 15,
+        "wrbar": 118,
+        "wrbarPosition": 3
+      },
+      {
+        "eventId": "18246",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 11,
+        "date": "07 July 2019",
+        "club": "Blaydon CC",
+        "position": "17",
+        "time": "1:23:47",
+        "standard": "01:19:41",
+        "onStandard": "00:04:06",
+        "speed": "19.34 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "Blaydon CC",
+        "position": "57",
+        "time": "2:28:47",
+        "standard": "02:21:26",
+        "onStandard": "00:07:21",
+        "speed": "18.95 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "vbarPosition": 14,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 108,
+        "rbarPosition": 13,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "shortCount": 3,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 115.33333333333333,
+    "averagePointsPerMediumRace": 117,
+    "averagePointsPerLongRace": 107,
+    "averagePointsPerRace": 114.5,
+    "remainingShortPoints": 14,
+    "remainingMediumPoints": 6,
+    "remainingLongPoints": 13,
+    "remainingPoints": 33,
+    "predictedFinalPoints": 687,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 116
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 116
+    },
+    "totals": {
+      "short": 346,
+      "medium": 234,
+      "long": 107,
+      "grand": 687
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x 3rd VBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "3 x Top 5 VBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "6 x Top 10 VBAR"
+      }
+    ],
+    "currentPosition": 10,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "2041",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Philip Kennell",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 476,
+        "tieBreakPoints": 349
+      },
+      {
+        "position": 7,
+        "id": "775",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 7,
+        "name": "Venda Louise Pollock",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 702,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 115,
+        "tieBreakPoints": 230
+      },
+      {
+        "position": 8,
+        "id": "29068",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 8,
+        "name": "Colin Blacklock",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 116.5,
+        "predictedFinalPoints": 699,
+        "grandTotal": 699,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 220
+      },
+      {
+        "position": 9,
+        "id": "3088",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 9,
+        "name": "Nicholas Stevenson",
+        "club": "Wearside Triathlon",
+        "averagePointsPerRace": 116.16666666666667,
+        "predictedFinalPoints": 697,
+        "grandTotal": 697,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 349,
+        "tieBreakPoints": 236
+      },
+      {
+        "position": 10,
+        "id": "25359",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 10,
+        "name": "Sarah Wilkinson",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 114.5,
+        "predictedFinalPoints": 687,
+        "grandTotal": 687,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 116,
+        "tieBreakPoints": 116
+      },
+      {
+        "position": 11,
+        "id": "6029",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 11,
+        "name": "Peter Herdman",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 113.33333333333333,
+        "predictedFinalPoints": 680,
+        "grandTotal": 680,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 219
+      },
+      {
+        "position": 12,
+        "id": "19486",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 12,
+        "name": "Mark Whaley",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 112.83333333333333,
+        "predictedFinalPoints": 677,
+        "grandTotal": 677,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 327,
+        "tieBreakPoints": 210
+      },
+      {
+        "position": 13,
+        "id": "1799",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 13,
+        "name": "Carrie Brookes",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 112.5,
+        "predictedFinalPoints": 675,
+        "grandTotal": 675,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 217,
+        "tieBreakPoints": 224
+      }
+    ]
+  },
+  "wbar": {
+    "short": [
+      {
+        "eventId": "18257",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 11,
+        "date": "14 July 2019",
+        "club": "Blaydon CC",
+        "position": "24",
+        "time": "0:42:15",
+        "standard": "00:40:48",
+        "onStandard": "00:01:27",
+        "speed": "19.88 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 111,
+        "rbarPosition": 10,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18251",
+        "raceCategory": "short",
+        "name": "Cestria Cycling Club",
+        "course": "M9",
+        "distance": 9,
+        "fee": 11,
+        "date": "22 June 2019",
+        "club": "Blaydon CC",
+        "position": "23",
+        "time": "0:24:08",
+        "standard": "00:26:06",
+        "onStandard": "-00:01:58",
+        "speed": "22.38 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 117,
+        "rbarPosition": 4,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18253",
+        "raceCategory": "short",
+        "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 11,
+        "date": "29 June 2019",
+        "club": "Blaydon CC",
+        "position": "32",
+        "time": "0:27:34",
+        "standard": "00:28:44",
+        "onStandard": "-00:01:10",
+        "speed": "21.55 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18246",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 11,
+        "date": "07 July 2019",
+        "club": "Blaydon CC",
+        "position": "17",
+        "time": "1:23:47",
+        "standard": "01:19:41",
+        "onStandard": "00:04:06",
+        "speed": "19.34 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18248",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 10,
+        "date": "09 June 2019",
+        "club": "Blaydon CC",
+        "position": "31",
+        "time": "1:25:19",
+        "standard": "01:13:02",
+        "onStandard": "00:12:17",
+        "speed": "17.44 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 118,
+        "vbarPosition": 3,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 106,
+        "rbarPosition": 15,
+        "wrbar": 118,
+        "wrbarPosition": 3
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "Blaydon CC",
+        "position": "57",
+        "time": "2:28:47",
+        "standard": "02:21:26",
+        "onStandard": "00:07:21",
+        "speed": "18.95 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "vbarPosition": 14,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 108,
+        "rbarPosition": 13,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "shortCount": 3,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 119,
+    "averagePointsPerLongRace": 119,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 3,
+    "remainingMediumPoints": 2,
+    "remainingLongPoints": 1,
+    "remainingPoints": 6,
+    "predictedFinalPoints": 714,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 118
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 120
+    },
+    "totals": {
+      "short": 357,
+      "medium": 238,
+      "long": 119,
+      "grand": 714
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x 1st WBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x 2nd WBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x 3rd WBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "8 x Top 5 WBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "9 x Top 10 WBAR"
+      }
+    ],
+    "currentPosition": 4,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "16184",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Gemma Frost",
+        "club": "Team Swift",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 359,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 2,
+        "id": "775",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 2,
+        "name": "Venda Louise Pollock",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 119.66666666666667,
+        "predictedFinalPoints": 718,
+        "grandTotal": 718,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 119,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 3,
+        "id": "18204",
+        "pointsDirection": -1,
+        "barPredictedFinalPosition": 3,
+        "name": "Joanne Rea",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 714,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 475,
+        "tieBreakPoints": 355
+      },
+      {
+        "position": 4,
+        "id": "25359",
+        "pointsDirection": 1,
+        "barPredictedFinalPosition": 4,
+        "name": "Sarah Wilkinson",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 714,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 118,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 5,
+        "id": "1799",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 5,
+        "name": "Carrie Brookes",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 118.66666666666667,
+        "predictedFinalPoints": 712,
+        "grandTotal": 712,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 231,
+        "tieBreakPoints": 236
+      },
+      {
+        "position": 6,
+        "id": "10722",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 6,
+        "name": "Jen Mcmahon",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 118.66666666666667,
+        "predictedFinalPoints": 712,
+        "grandTotal": 712,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 236,
+        "tieBreakPoints": 115
+      },
+      {
+        "position": 7,
+        "id": "3838",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 7,
+        "name": "Gemma Hutchins",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 117.16666666666667,
+        "predictedFinalPoints": 703,
+        "grandTotal": 703,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 116,
+        "tieBreakPoints": 233
+      }
+    ]
+  },
+  "wvbar": {
+    "short": [
+      {
+        "eventId": "18247",
+        "raceCategory": "short",
+        "name": "Alnwick CC",
+        "course": "M13",
+        "distance": 13,
+        "fee": 11,
+        "date": "01 June 2019",
+        "club": "Blaydon CC",
+        "position": "46",
+        "time": "0:34:28",
+        "standard": "00:37:50",
+        "onStandard": "-00:03:22",
+        "speed": "22.63 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 117,
+        "wbarPosition": 4,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18251",
+        "raceCategory": "short",
+        "name": "Cestria Cycling Club",
+        "course": "M9",
+        "distance": 9,
+        "fee": 11,
+        "date": "22 June 2019",
+        "club": "Blaydon CC",
+        "position": "23",
+        "time": "0:24:08",
+        "standard": "00:26:06",
+        "onStandard": "-00:01:58",
+        "speed": "22.38 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 117,
+        "rbarPosition": 4,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18253",
+        "raceCategory": "short",
+        "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 11,
+        "date": "29 June 2019",
+        "club": "Blaydon CC",
+        "position": "32",
+        "time": "0:27:34",
+        "standard": "00:28:44",
+        "onStandard": "-00:01:10",
+        "speed": "21.55 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18248",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 10,
+        "date": "09 June 2019",
+        "club": "Blaydon CC",
+        "position": "31",
+        "time": "1:25:19",
+        "standard": "01:13:02",
+        "onStandard": "00:12:17",
+        "speed": "17.44 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 118,
+        "vbarPosition": 3,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 106,
+        "rbarPosition": 15,
+        "wrbar": 118,
+        "wrbarPosition": 3
+      },
+      {
+        "eventId": "18246",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 11,
+        "date": "07 July 2019",
+        "club": "Blaydon CC",
+        "position": "17",
+        "time": "1:23:47",
+        "standard": "01:19:41",
+        "onStandard": "00:04:06",
+        "speed": "19.34 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "Blaydon CC",
+        "position": "57",
+        "time": "2:28:47",
+        "standard": "02:21:26",
+        "onStandard": "00:07:21",
+        "speed": "18.95 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "vbarPosition": 14,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 108,
+        "rbarPosition": 13,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "shortCount": 3,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 120,
+    "averagePointsPerLongRace": 120,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 0,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 0,
+    "predictedFinalPoints": 720,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 120
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 120
+    },
+    "totals": {
+      "short": 360,
+      "medium": 240,
+      "long": 120,
+      "grand": 720
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "8 x 1st WVBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x 3rd WVBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "9 x Top 5 WVBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "9 x Top 10 WVBAR"
+      }
+    ],
+    "currentPosition": 2,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "775",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Venda Louise Pollock",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 120,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 2,
+        "id": "25359",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 2,
+        "name": "Sarah Wilkinson",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 120,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 3,
+        "id": "1799",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 3,
+        "name": "Carrie Brookes",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717,
+        "grandTotal": 717,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 238,
+        "tieBreakPoints": 238
+      },
+      {
+        "position": 4,
+        "id": "3838",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 4,
+        "name": "Gemma Hutchins",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 119.16666666666667,
+        "predictedFinalPoints": 715,
+        "grandTotal": 715,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 118,
+        "tieBreakPoints": 237
+      },
+      {
+        "position": 5,
+        "id": "3419",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 5,
+        "name": "Teri Bayliss",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 714,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 238,
+        "tieBreakPoints": 237
+      },
+      {
+        "position": 6,
+        "id": "19057",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 6,
+        "name": "Nicola Mccoy",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 708,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 352
+      },
+      {
+        "position": 7,
+        "id": "2846",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 7,
+        "name": "Justine Norman",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 116.33333333333333,
+        "predictedFinalPoints": 698,
+        "grandTotal": 698,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 116,
+        "tieBreakPoints": 231
+      }
+    ]
+  },
+  "wrbar": {
+    "short": [
+      {
+        "eventId": "18244",
+        "raceCategory": "short",
+        "name": "Tyne & Wear Fire Service CC",
+        "course": "M12",
+        "distance": 12,
+        "fee": 11,
+        "date": "11 May 2019",
+        "club": "Blaydon CC",
+        "position": "51",
+        "time": "0:34:28",
+        "standard": "00:34:54",
+        "onStandard": "-00:00:26",
+        "speed": "20.89 Mph",
+        "bar": 78,
+        "barPosition": 43,
+        "vbar": 108,
+        "vbarPosition": 13,
+        "wvbar": 118,
+        "wvbarPosition": 3,
+        "wbar": 115,
+        "wbarPosition": 6,
+        "rbar": 114,
+        "rbarPosition": 7,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18247",
+        "raceCategory": "short",
+        "name": "Alnwick CC",
+        "course": "M13",
+        "distance": 13,
+        "fee": 11,
+        "date": "01 June 2019",
+        "club": "Blaydon CC",
+        "position": "46",
+        "time": "0:34:28",
+        "standard": "00:37:50",
+        "onStandard": "-00:03:22",
+        "speed": "22.63 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 117,
+        "wbarPosition": 4,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18251",
+        "raceCategory": "short",
+        "name": "Cestria Cycling Club",
+        "course": "M9",
+        "distance": 9,
+        "fee": 11,
+        "date": "22 June 2019",
+        "club": "Blaydon CC",
+        "position": "23",
+        "time": "0:24:08",
+        "standard": "00:26:06",
+        "onStandard": "-00:01:58",
+        "speed": "22.38 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 117,
+        "rbarPosition": 4,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18246",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 11,
+        "date": "07 July 2019",
+        "club": "Blaydon CC",
+        "position": "17",
+        "time": "1:23:47",
+        "standard": "01:19:41",
+        "onStandard": "00:04:06",
+        "speed": "19.34 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18260",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 11,
+        "date": "27 July 2019",
+        "club": "Blaydon CC",
+        "position": "30",
+        "time": "1:14:18",
+        "standard": "01:16:40",
+        "onStandard": "-00:02:22",
+        "speed": "21.00 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 112,
+        "vbarPosition": 9,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 117,
+        "wbarPosition": 4,
+        "rbar": 114,
+        "rbarPosition": 7,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "Blaydon CC",
+        "position": "57",
+        "time": "2:28:47",
+        "standard": "02:21:26",
+        "onStandard": "00:07:21",
+        "speed": "18.95 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "vbarPosition": 14,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 108,
+        "rbarPosition": 13,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "shortCount": 3,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 120,
+    "averagePointsPerLongRace": 120,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 0,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 0,
+    "predictedFinalPoints": 720,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 120
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 120
+    },
+    "totals": {
+      "short": 360,
+      "medium": 240,
+      "long": 120,
+      "grand": 720
+    },
+    "predictedFinalPosition": 1,
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "8 x 1st WRBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x 3rd WRBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "9 x Top 5 WRBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "9 x Top 10 WRBAR"
+      }
+    ],
+    "currentPosition": 1,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "25359",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Sarah Wilkinson",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 120,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 2,
+        "id": "22857",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 2,
+        "name": "Rachel Galler",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 119.66666666666667,
+        "predictedFinalPoints": 718,
+        "grandTotal": 718,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 118
+      },
+      {
+        "position": 3,
+        "id": "9698",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 3,
+        "name": "Tracey Sample",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 714,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 120,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 4,
+        "id": "16749",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 4,
+        "name": "Jane Aston",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 118.16666666666667,
+        "predictedFinalPoints": 709,
+        "grandTotal": 709,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 237
+      },
+      {
+        "position": 5,
+        "id": "19753",
+        "pointsDirection": 0,
+        "name": "Hannah Farran",
+        "club": "Team Boompods",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 717.5,
+        "grandTotal": 239,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 119
+      },
+      {
+        "position": 6,
+        "id": "9329",
+        "pointsDirection": -1,
+        "name": "Jane Massey",
+        "club": "Cramlington CC",
+        "averagePointsPerRace": 119.5,
+        "predictedFinalPoints": 716.5,
+        "grandTotal": 239,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 120,
+        "tieBreakPoints": 116
+      },
+      {
+        "position": 7,
+        "id": "19057",
+        "pointsDirection": 1,
+        "name": "Nicola Mccoy",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 238,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 118
+      }
+    ]
+  },
+  "rbar": {
+    "short": [
+      {
+        "eventId": "18251",
+        "raceCategory": "short",
+        "name": "Cestria Cycling Club",
+        "course": "M9",
+        "distance": 9,
+        "fee": 11,
+        "date": "22 June 2019",
+        "club": "Blaydon CC",
+        "position": "23",
+        "time": "0:24:08",
+        "standard": "00:26:06",
+        "onStandard": "-00:01:58",
+        "speed": "22.38 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 115,
+        "vbarPosition": 6,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 117,
+        "rbarPosition": 4,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18247",
+        "raceCategory": "short",
+        "name": "Alnwick CC",
+        "course": "M13",
+        "distance": 13,
+        "fee": 11,
+        "date": "01 June 2019",
+        "club": "Blaydon CC",
+        "position": "46",
+        "time": "0:34:28",
+        "standard": "00:37:50",
+        "onStandard": "-00:03:22",
+        "speed": "22.63 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 117,
+        "wbarPosition": 4,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18253",
+        "raceCategory": "short",
+        "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 11,
+        "date": "29 June 2019",
+        "club": "Blaydon CC",
+        "position": "32",
+        "time": "0:27:34",
+        "standard": "00:28:44",
+        "onStandard": "-00:01:10",
+        "speed": "21.55 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 118,
+        "wbarPosition": 3,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "18246",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 11,
+        "date": "07 July 2019",
+        "club": "Blaydon CC",
+        "position": "17",
+        "time": "1:23:47",
+        "standard": "01:19:41",
+        "onStandard": "00:04:06",
+        "speed": "19.34 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 120,
+        "wbarPosition": 1,
+        "rbar": 116,
+        "rbarPosition": 5,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      },
+      {
+        "eventId": "18260",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 11,
+        "date": "27 July 2019",
+        "club": "Blaydon CC",
+        "position": "30",
+        "time": "1:14:18",
+        "standard": "01:16:40",
+        "onStandard": "-00:02:22",
+        "speed": "21.00 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 112,
+        "vbarPosition": 9,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 117,
+        "wbarPosition": 4,
+        "rbar": 114,
+        "rbarPosition": 7,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "long": [
+      {
+        "eventId": "18245",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 13,
+        "date": "19 May 2019",
+        "club": "Blaydon CC",
+        "position": "57",
+        "time": "2:28:47",
+        "standard": "02:21:26",
+        "onStandard": "00:07:21",
+        "speed": "18.95 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "vbarPosition": 14,
+        "wvbar": 120,
+        "wvbarPosition": 1,
+        "wbar": 119,
+        "wbarPosition": 2,
+        "rbar": 108,
+        "rbarPosition": 13,
+        "wrbar": 120,
+        "wrbarPosition": 1
+      }
+    ],
+    "shortCount": 3,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 116.33333333333333,
+    "averagePointsPerMediumRace": 115,
+    "averagePointsPerLongRace": 108,
+    "averagePointsPerRace": 114.5,
+    "remainingShortPoints": 11,
+    "remainingMediumPoints": 10,
+    "remainingLongPoints": 12,
+    "remainingPoints": 33,
+    "predictedFinalPoints": 687,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 116
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 116
+    },
+    "totals": {
+      "short": 349,
+      "medium": 230,
+      "long": 108,
+      "grand": 687
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "4 x Top 5 RBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "7 x Top 10 RBAR"
+      }
+    ],
+    "currentPosition": 8,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "1207",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Jonathan Bayley",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 239,
+        "tieBreakPoints": 358
+      },
+      {
+        "position": 5,
+        "id": "5305",
+        "pointsDirection": 1,
+        "barPredictedFinalPosition": 5,
+        "name": "Ian Gallon",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 116.83333333333333,
+        "predictedFinalPoints": 701,
+        "grandTotal": 701,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 118,
+        "tieBreakPoints": 224
+      },
+      {
+        "position": 6,
+        "id": "92",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 6,
+        "name": "Mick Chappel",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 114.83333333333333,
+        "predictedFinalPoints": 689,
+        "grandTotal": 689,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 112,
+        "tieBreakPoints": 112
+      },
+      {
+        "position": 7,
+        "id": "22857",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 7,
+        "name": "Rachel Galler",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 114.83333333333333,
+        "predictedFinalPoints": 689,
+        "grandTotal": 689,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 102
+      },
+      {
+        "position": 8,
+        "id": "25359",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 8,
+        "name": "Sarah Wilkinson",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 114.5,
+        "predictedFinalPoints": 687,
+        "grandTotal": 687,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 116,
+        "tieBreakPoints": 116
+      },
+      {
+        "position": 9,
+        "id": "18735",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 9,
+        "name": "James George Dunn",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 113.33333333333333,
+        "predictedFinalPoints": 680,
+        "grandTotal": 680,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 114,
+        "tieBreakPoints": 228
+      },
+      {
+        "position": 10,
+        "id": "2927",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 10,
+        "name": "Gareth Davies",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 678,
+        "grandTotal": 678,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 227,
+        "tieBreakPoints": 221
+      },
+      {
+        "position": 11,
+        "id": "25152",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 11,
+        "name": "John Cantrill",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 112.83333333333333,
+        "predictedFinalPoints": 677,
+        "grandTotal": 677,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 222
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "18244",
+      "raceCategory": "short",
+      "name": "Tyne & Wear Fire Service CC",
+      "course": "M12",
+      "distance": 12,
+      "fee": 11,
+      "date": "11 May 2019",
+      "club": "Blaydon CC",
+      "position": "51",
+      "time": "0:34:28",
+      "standard": "00:34:54",
+      "onStandard": "-00:00:26",
+      "speed": "20.89 Mph",
+      "bar": 78,
+      "barPosition": 43,
+      "vbar": 108,
+      "vbarPosition": 13,
+      "wvbar": 118,
+      "wvbarPosition": 3,
+      "wbar": 115,
+      "wbarPosition": 6,
+      "rbar": 114,
+      "rbarPosition": 7,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    },
+    {
+      "eventId": "18245",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 13,
+      "date": "19 May 2019",
+      "club": "Blaydon CC",
+      "position": "57",
+      "time": "2:28:47",
+      "standard": "02:21:26",
+      "onStandard": "00:07:21",
+      "speed": "18.95 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 107,
+      "vbarPosition": 14,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 119,
+      "wbarPosition": 2,
+      "rbar": 108,
+      "rbarPosition": 13,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    },
+    {
+      "eventId": "18247",
+      "raceCategory": "short",
+      "name": "Alnwick CC",
+      "course": "M13",
+      "distance": 13,
+      "fee": 11,
+      "date": "01 June 2019",
+      "club": "Blaydon CC",
+      "position": "46",
+      "time": "0:34:28",
+      "standard": "00:37:50",
+      "onStandard": "-00:03:22",
+      "speed": "22.63 Mph",
+      "bar": 85,
+      "barPosition": 36,
+      "vbar": 109,
+      "vbarPosition": 12,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 117,
+      "wbarPosition": 4,
+      "rbar": 116,
+      "rbarPosition": 5,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    },
+    {
+      "eventId": "18248",
+      "raceCategory": "medium",
+      "name": "Allen Valley Velo",
+      "course": "M24.8",
+      "distance": 24.8,
+      "fee": 10,
+      "date": "09 June 2019",
+      "club": "Blaydon CC",
+      "position": "31",
+      "time": "1:25:19",
+      "standard": "01:13:02",
+      "onStandard": "00:12:17",
+      "speed": "17.44 Mph",
+      "bar": 95,
+      "barPosition": 26,
+      "vbar": 118,
+      "vbarPosition": 3,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 118,
+      "wbarPosition": 3,
+      "rbar": 106,
+      "rbarPosition": 15,
+      "wrbar": 118,
+      "wrbarPosition": 3
+    },
+    {
+      "eventId": "18251",
+      "raceCategory": "short",
+      "name": "Cestria Cycling Club",
+      "course": "M9",
+      "distance": 9,
+      "fee": 11,
+      "date": "22 June 2019",
+      "club": "Blaydon CC",
+      "position": "23",
+      "time": "0:24:08",
+      "standard": "00:26:06",
+      "onStandard": "-00:01:58",
+      "speed": "22.38 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 115,
+      "vbarPosition": 6,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 119,
+      "wbarPosition": 2,
+      "rbar": 117,
+      "rbarPosition": 4,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    },
+    {
+      "eventId": "18253",
+      "raceCategory": "short",
+      "name": "Derwentside CC (Inc. N&DCA 10 Championship)",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 11,
+      "date": "29 June 2019",
+      "club": "Blaydon CC",
+      "position": "32",
+      "time": "0:27:34",
+      "standard": "00:28:44",
+      "onStandard": "-00:01:10",
+      "speed": "21.55 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 116,
+      "vbarPosition": 5,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 118,
+      "wbarPosition": 3,
+      "rbar": 116,
+      "rbarPosition": 5,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    },
+    {
+      "eventId": "18246",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M27",
+      "distance": 27,
+      "fee": 11,
+      "date": "07 July 2019",
+      "club": "Blaydon CC",
+      "position": "17",
+      "time": "1:23:47",
+      "standard": "01:19:41",
+      "onStandard": "00:04:06",
+      "speed": "19.34 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 116,
+      "vbarPosition": 5,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 120,
+      "wbarPosition": 1,
+      "rbar": 116,
+      "rbarPosition": 5,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    },
+    {
+      "eventId": "18257",
+      "raceCategory": "short",
+      "name": "Blaydon CC",
+      "course": "M14",
+      "distance": 14,
+      "fee": 11,
+      "date": "14 July 2019",
+      "club": "Blaydon CC",
+      "position": "24",
+      "time": "0:42:15",
+      "standard": "00:40:48",
+      "onStandard": "00:01:27",
+      "speed": "19.88 Mph",
+      "bar": 99,
+      "barPosition": 22,
+      "vbar": 115,
+      "vbarPosition": 6,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 120,
+      "wbarPosition": 1,
+      "rbar": 111,
+      "rbarPosition": 10,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    },
+    {
+      "eventId": "18260",
+      "raceCategory": "medium",
+      "name": "GS Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 11,
+      "date": "27 July 2019",
+      "club": "Blaydon CC",
+      "position": "30",
+      "time": "1:14:18",
+      "standard": "01:16:40",
+      "onStandard": "-00:02:22",
+      "speed": "21.00 Mph",
+      "bar": 94,
+      "barPosition": 27,
+      "vbar": 112,
+      "vbarPosition": 9,
+      "wvbar": 120,
+      "wvbarPosition": 1,
+      "wbar": 117,
+      "wbarPosition": 4,
+      "rbar": 114,
+      "rbarPosition": 7,
+      "wrbar": 120,
+      "wrbarPosition": 1
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 78,
+        "medium": 0,
+        "long": 0,
+        "grand": 78
+      },
+      "position": 141
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 78,
+        "medium": 0,
+        "long": 80,
+        "grand": 158
+      },
+      "position": 93
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 78,
+        "medium": 0,
+        "long": 80,
+        "grand": 158
+      },
+      "position": 101
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 163,
+        "medium": 0,
+        "long": 80,
+        "grand": 243
+      },
+      "position": 75
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 163,
+        "medium": 95,
+        "long": 80,
+        "grand": 338
+      },
+      "position": 44
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 163,
+        "medium": 95,
+        "long": 80,
+        "grand": 338
+      },
+      "position": 52
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 264,
+        "medium": 95,
+        "long": 80,
+        "grand": 439
+      },
+      "position": 37
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 264,
+        "medium": 95,
+        "long": 80,
+        "grand": 439
+      },
+      "position": 42
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 276,
+        "medium": 95,
+        "long": 80,
+        "grand": 451
+      },
+      "position": 44
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 276,
+        "medium": 202,
+        "long": 80,
+        "grand": 558
+      },
+      "position": 19
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 276,
+        "medium": 202,
+        "long": 80,
+        "grand": 558
+      },
+      "position": 22
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 290,
+        "medium": 202,
+        "long": 80,
+        "grand": 572
+      },
+      "position": 23
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 290,
+        "medium": 202,
+        "long": 80,
+        "grand": 572
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 290,
+        "medium": 202,
+        "long": 80,
+        "grand": 572
+      },
+      "position": 30
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 290,
+        "medium": 202,
+        "long": 80,
+        "grand": 572
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 290,
+        "medium": 202,
+        "long": 80,
+        "grand": 572
+      },
+      "position": 37
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 290,
+        "medium": 202,
+        "long": 80,
+        "grand": 572
+      },
+      "position": 40
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 290,
+        "medium": 202,
+        "long": 80,
+        "grand": 572
+      },
+      "position": 43
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 108,
+        "medium": 0,
+        "long": 0,
+        "grand": 108
+      },
+      "position": 77
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 108,
+        "medium": 0,
+        "long": 107,
+        "grand": 215
+      },
+      "position": 49
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 108,
+        "medium": 0,
+        "long": 107,
+        "grand": 215
+      },
+      "position": 56
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 217,
+        "medium": 0,
+        "long": 107,
+        "grand": 324
+      },
+      "position": 36
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 217,
+        "medium": 118,
+        "long": 107,
+        "grand": 442
+      },
+      "position": 22
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 217,
+        "medium": 118,
+        "long": 107,
+        "grand": 442
+      },
+      "position": 27
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 332,
+        "medium": 118,
+        "long": 107,
+        "grand": 557
+      },
+      "position": 15
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 332,
+        "medium": 118,
+        "long": 107,
+        "grand": 557
+      },
+      "position": 16
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 340,
+        "medium": 118,
+        "long": 107,
+        "grand": 565
+      },
+      "position": 18
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 340,
+        "medium": 234,
+        "long": 107,
+        "grand": 681
+      },
+      "position": 5
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 340,
+        "medium": 234,
+        "long": 107,
+        "grand": 681
+      },
+      "position": 5
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 346,
+        "medium": 234,
+        "long": 107,
+        "grand": 687
+      },
+      "position": 6
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 346,
+        "medium": 234,
+        "long": 107,
+        "grand": 687
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 346,
+        "medium": 234,
+        "long": 107,
+        "grand": 687
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 346,
+        "medium": 234,
+        "long": 107,
+        "grand": 687
+      },
+      "position": 9
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 346,
+        "medium": 234,
+        "long": 107,
+        "grand": 687
+      },
+      "position": 9
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 346,
+        "medium": 234,
+        "long": 107,
+        "grand": 687
+      },
+      "position": 10
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 346,
+        "medium": 234,
+        "long": 107,
+        "grand": 687
+      },
+      "position": 10
+    }
+  ],
+  "wvbarHistory": [
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 12
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 120,
+        "grand": 238
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 120,
+        "grand": 238
+      },
+      "position": 8
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 238,
+        "medium": 0,
+        "long": 120,
+        "grand": 358
+      },
+      "position": 8
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 238,
+        "medium": 120,
+        "long": 120,
+        "grand": 478
+      },
+      "position": 5
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 238,
+        "medium": 120,
+        "long": 120,
+        "grand": 478
+      },
+      "position": 6
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 358,
+        "medium": 120,
+        "long": 120,
+        "grand": 598
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 358,
+        "medium": 120,
+        "long": 120,
+        "grand": 598
+      },
+      "position": 3
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 360,
+        "medium": 120,
+        "long": 120,
+        "grand": 600
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 2
+    }
+  ],
+  "wbarHistory": [
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 115,
+        "medium": 0,
+        "long": 0,
+        "grand": 115
+      },
+      "position": 23
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 115,
+        "medium": 0,
+        "long": 119,
+        "grand": 234
+      },
+      "position": 13
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 115,
+        "medium": 0,
+        "long": 119,
+        "grand": 234
+      },
+      "position": 14
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 232,
+        "medium": 0,
+        "long": 119,
+        "grand": 351
+      },
+      "position": 12
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 232,
+        "medium": 118,
+        "long": 119,
+        "grand": 469
+      },
+      "position": 8
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 232,
+        "medium": 118,
+        "long": 119,
+        "grand": 469
+      },
+      "position": 9
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 351,
+        "medium": 118,
+        "long": 119,
+        "grand": 588
+      },
+      "position": 4
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 351,
+        "medium": 118,
+        "long": 119,
+        "grand": 588
+      },
+      "position": 5
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 354,
+        "medium": 118,
+        "long": 119,
+        "grand": 591
+      },
+      "position": 5
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 354,
+        "medium": 238,
+        "long": 119,
+        "grand": 711
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 354,
+        "medium": 238,
+        "long": 119,
+        "grand": 711
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 357,
+        "medium": 238,
+        "long": 119,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 357,
+        "medium": 238,
+        "long": 119,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 357,
+        "medium": 238,
+        "long": 119,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 357,
+        "medium": 238,
+        "long": 119,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 357,
+        "medium": 238,
+        "long": 119,
+        "grand": 714
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 357,
+        "medium": 238,
+        "long": 119,
+        "grand": 714
+      },
+      "position": 3
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 357,
+        "medium": 238,
+        "long": 119,
+        "grand": 714
+      },
+      "position": 4
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 114,
+        "medium": 0,
+        "long": 0,
+        "grand": 114
+      },
+      "position": 37
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 114,
+        "medium": 0,
+        "long": 108,
+        "grand": 222
+      },
+      "position": 22
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 114,
+        "medium": 0,
+        "long": 108,
+        "grand": 222
+      },
+      "position": 22
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 108,
+        "grand": 338
+      },
+      "position": 11
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 230,
+        "medium": 106,
+        "long": 108,
+        "grand": 444
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 230,
+        "medium": 106,
+        "long": 108,
+        "grand": 444
+      },
+      "position": 8
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 347,
+        "medium": 106,
+        "long": 108,
+        "grand": 561
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 347,
+        "medium": 106,
+        "long": 108,
+        "grand": 561
+      },
+      "position": 8
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 349,
+        "medium": 106,
+        "long": 108,
+        "grand": 563
+      },
+      "position": 8
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 349,
+        "medium": 222,
+        "long": 108,
+        "grand": 679
+      },
+      "position": 5
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 349,
+        "medium": 222,
+        "long": 108,
+        "grand": 679
+      },
+      "position": 6
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 349,
+        "medium": 222,
+        "long": 108,
+        "grand": 679
+      },
+      "position": 6
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 349,
+        "medium": 222,
+        "long": 108,
+        "grand": 679
+      },
+      "position": 6
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 349,
+        "medium": 230,
+        "long": 108,
+        "grand": 687
+      },
+      "position": 6
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 349,
+        "medium": 230,
+        "long": 108,
+        "grand": 687
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 349,
+        "medium": 230,
+        "long": 108,
+        "grand": 687
+      },
+      "position": 7
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 349,
+        "medium": 230,
+        "long": 108,
+        "grand": 687
+      },
+      "position": 8
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 349,
+        "medium": 230,
+        "long": 108,
+        "grand": 687
+      },
+      "position": 8
+    }
+  ],
+  "wrbarHistory": [
+    {
+      "eventId": "18244",
+      "date": "11 May 2019",
+      "name": "M12",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 0,
+        "grand": 120
+      },
+      "position": 6
+    },
+    {
+      "eventId": "18245",
+      "date": "19 May 2019",
+      "name": "M47",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18255",
+      "date": "26 May 2019",
+      "name": "M2511",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 3
+    },
+    {
+      "eventId": "18247",
+      "date": "01 June 2019",
+      "name": "M13",
+      "points": {
+        "short": 240,
+        "medium": 0,
+        "long": 120,
+        "grand": 360
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18248",
+      "date": "09 June 2019",
+      "name": "M24.8",
+      "points": {
+        "short": 240,
+        "medium": 118,
+        "long": 120,
+        "grand": 478
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18250",
+      "date": "16 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 240,
+        "medium": 118,
+        "long": 120,
+        "grand": 478
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18251",
+      "date": "22 June 2019",
+      "name": "M9",
+      "points": {
+        "short": 360,
+        "medium": 118,
+        "long": 120,
+        "grand": 598
+      },
+      "position": 2
+    },
+    {
+      "eventId": "18252",
+      "date": "23 June 2019",
+      "name": "M254",
+      "points": {
+        "short": 360,
+        "medium": 118,
+        "long": 120,
+        "grand": 598
+      },
+      "position": 3
+    },
+    {
+      "eventId": "18253",
+      "date": "29 June 2019",
+      "name": "M107",
+      "points": {
+        "short": 360,
+        "medium": 118,
+        "long": 120,
+        "grand": 598
+      },
+      "position": 3
+    },
+    {
+      "eventId": "18246",
+      "date": "07 July 2019",
+      "name": "M27",
+      "points": {
+        "short": 360,
+        "medium": 238,
+        "long": 120,
+        "grand": 718
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18256",
+      "date": "10 July 2019",
+      "name": "M102B",
+      "points": {
+        "short": 360,
+        "medium": 238,
+        "long": 120,
+        "grand": 718
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18257",
+      "date": "14 July 2019",
+      "name": "M14",
+      "points": {
+        "short": 360,
+        "medium": 238,
+        "long": 120,
+        "grand": 718
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18258",
+      "date": "22 July 2019",
+      "name": "M2510",
+      "points": {
+        "short": 360,
+        "medium": 238,
+        "long": 120,
+        "grand": 718
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18260",
+      "date": "27 July 2019",
+      "name": "M26",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18263",
+      "date": "04 August 2019",
+      "name": "M5011",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18264",
+      "date": "18 August 2019",
+      "name": "M102C",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18265",
+      "date": "25 August 2019",
+      "name": "M23-1",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    },
+    {
+      "eventId": "18266",
+      "date": "01 September 2019",
+      "name": "M100/10",
+      "points": {
+        "short": 360,
+        "medium": 240,
+        "long": 120,
+        "grand": 720
+      },
+      "position": 1
+    }
+  ]
+}
